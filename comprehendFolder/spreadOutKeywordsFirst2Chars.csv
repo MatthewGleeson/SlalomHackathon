@@ -1,0 +1,3192 @@
+,Unnamed: 0,keywords,code
+0,0,Alternative Education,B2
+1,1,Boarding Schools,B2
+2,2,Child Development Education Issues,B2
+3,3,Community-Based Schools,B2
+4,4,Community Learning Centers,B2
+5,5,Extended-Service Schools,B2
+6,6,Full-Service Schools,B2
+7,7,Home-Based Education,B2
+8,8,Home Education,B2
+9,9,Home Schooling,B2
+10,10,Montessori Schools,B2
+11,11,Nontraditional Schools,B2
+12,12,Separately Organized Middle Schools,B2
+13,13,Yeshivas,B2
+14,14,Early Childhood Education,B2
+15,15,Head Start,B2
+16,16,Kindergartens,B2
+17,17,Nursery Schools,B2
+18,18,Preschool Education,B2
+19,19,Preschools,B2
+20,20,School Readiness Programs,B2
+21,21,Elementary Schools,B2
+22,22,Grades 1-4,B2
+23,23,Grades 1-6,B2
+24,24,Grades 1-8,B2
+25,25,K-4,B2
+26,26,K-6,B2
+27,27,K-8,B2
+28,28,Primary Schools,B2
+29,29,College Preparatory Schools,B2
+30,30,Grades 7-12,B2
+31,31,Grades 8-12,B2
+32,32,Grades 9-12,B2
+33,33,Grades 10-12,B2
+34,34,High Schools,B2
+35,35,Junior High Schools,B2
+36,36,Intermediate Schools,B2
+37,37,Pre-Collegiate Education,B2
+38,38,Secondary Schools,B2
+39,39,Senior High Schools,B2
+40,40,Bilingual Education,B2
+41,41,Blind Children,B2
+42,42,Children with Hearing Disabilities,B2
+43,43,Children with Learning Disabilities,B2
+44,44,Deaf Children,B2
+45,45,Developmentally Disabled Children,B2
+46,46,Gifted and Talented Schools,B2
+47,47,Gifted Children,B2
+48,48,Gifted Schools,B2
+49,49,Mentally Retarded Children,B2
+50,50,Special Education Institutions,B2
+51,51,Special Schools,B2
+52,52,TAG Schools,B2
+53,53,Talented and Gifted Schools,B2
+54,54,Visually Impaired Children,B2
+55,55,Charter Schools,B2
+56,56,Auto Mechanics,B3
+57,57,Building Trades,B3
+58,58,Cosmetology,B3
+59,59,High School Vocational Education,B3
+60,60,Industrial,B3
+61,61,Manufacturing,B3
+62,62,Post-Secondary Technical Schools,B3
+63,63,Technical Schools,B3
+64,64,Trade Schools,B3
+65,65,Vocational Centers,B3
+66,66,Vocational Schools,B3
+67,67,Vocational/Technical Schools,B3
+68,68,Vocational/Trade High Schools,B3
+69,69,Institutions of Higher Learning,B4
+70,70,Year Colleges,B4
+71,71,Associates in Arts Certificates,B4
+72,72,Community Colleges,B4
+73,73,Junior Colleges,B4
+74,74,Two-Year Colleges,B4
+75,75,Year Colleges,B4
+76,76,Baccalaureate Degrees,B4
+77,77,Bachelor Degrees,B4
+78,78,Bachelor of Arts Degrees,B4
+79,79,Bachelor of Science Degrees,B4
+80,80,Black Colleges,B4
+81,81,Deaf Colleges,B4
+82,82,Four-Year Colleges,B4
+83,83,Liberal Arts Colleges,B4
+84,84,Undergraduate Colleges,B4
+85,85,Doctorates,B4
+86,86,Graduate Schools,B4
+87,87,Masters Degrees,B4
+88,88,Technological Institutes,B4
+89,89,Universities,B4
+90,90,Accounting Schools,B5
+91,91,Advertising Schools,B5
+92,92,Agriculture Schools,B5
+93,93,Architectural Schools,B5
+94,94,Business Administration Schools,B5
+95,95,Business Schools,B5
+96,96,Chiropractic Teaching Facilities,B5
+97,97,Dental Schools,B5
+98,98,Divinity Schools,B5
+99,99,Engineering Schools,B5
+100,100,Fine Arts Schools,B5
+101,101,Health Sciences Schools,B5
+102,102,Hotel Administration Schools,B5
+103,103,Information Science Schools,B5
+104,104,Journalism Schools,B5
+105,105,Law Schools,B5
+106,106,Legal Education,B5
+107,107,Library and Information Science Schools,B5
+108,108,Library Schools,B5
+109,109,Management Schools,B5
+110,110,Marketing Schools,B5
+111,111,Medical Schools,B5
+112,112,Nursing Schools,B5
+113,113,Professional Schools,B5
+114,114,Public Administration Schools,B5
+115,115,Public Health Administration Schools,B5
+116,116,Public Health Schools,B5
+117,117,Schools of Education,B5
+118,118,Schools of Teaching,B5
+119,119,Seminaries / Seminary Schools,B5
+120,120,Social Work Schools,B5
+121,121,Teacher Education,B5
+122,122,Theological Schools,B5
+123,123,Theology Schools,B5
+124,124,Veterinary Medicine Schools,B5
+125,125,Veterinary Schools,B5
+126,126,Yeshiva,B5
+127,127,Adult Basic Education,B6
+128,128,Adult Education,B6
+129,129,Adult High School Diplomas,B6
+130,130,Adult Literacy Councils,B6
+131,131,Adult Literacy Education,B6
+132,132,Basic Writing Skills,B6
+133,133,Basic Reading Skills,B6
+134,134,Compensatory Learning,B6
+135,135,Continuing Education,B6
+136,136,Elderhostels,B6
+137,137,English as a Second Language,B6
+138,138,ESL Instruction,B6
+139,139,Fundamental Education (Adults),B6
+140,140,GED Instruction,B6
+141,141,General Educational Development Instruction,B6
+142,142,High School Equivalency,B6
+143,143,Institutes for Learning in Retirement,B6
+144,144,Lifelong Learning,B6
+145,145,Lifetime Learning,B6
+146,146,Academic Libraries,B7
+147,147,Academic Research Libraries,B7
+148,148,Archival Work,B7
+149,149,Archives,B7
+150,150,Archivists,B7
+151,151,Book and Paper Conservation,B7
+152,152,Book Collections,B7
+153,153,College Libraries,B7
+154,154,College Research Libraries,B7
+155,155,Corporate Libraries,B7
+156,156,Depository Libraries,B7
+157,157,Electronic Libraries,B7
+158,158,Information Centers,B7
+159,159,Law Libraries,B7
+160,160,Law School Libraries,B7
+161,161,Legal Libraries,B7
+162,162,Libraries,B7
+163,163,Library Operation/Programs,B7
+164,164,Media Centers,B7
+165,165,Medical Association Libraries,B7
+166,166,Medical Libraries,B7
+167,167,Medical Society Libraries,B7
+168,168,Military Base Libraries,B7
+169,169,Municipal Libraries,B7
+170,170,National Libraries,B7
+171,171,Online Vendor Services,B7
+172,172,Presidential Libraries,B7
+173,173,Public Libraries,B7
+174,174,Reference Services,B7
+175,175,Religious Libraries,B7
+176,176,Research Libraries,B7
+177,177,School Libraries,B7
+178,178,School Library Media Centers,B7
+179,179,Special Libraries,B7
+180,180,State Libraries,B7
+181,181,University Libraries,B7
+182,182,University Research Libraries,B7
+183,183,Virtual Libraries,B7
+184,184,Achievement Testing,B9
+185,185,Advanced Placement Testing,B9
+186,186,Afterschool Programs,B9
+187,187,After-School Enrichment Programs,B9
+188,188,After-School Programs,B9
+189,189,After School Programs,B9
+190,190,American College Test,B9
+191,191,Aptitude Testing,B9
+192,192,Business in Schools Programs,B9
+193,193,Cooperative/Community Education,B9
+194,194,College Credit by Examination,B9
+195,195,College Entrance Examinations,B9
+196,196,College Placement Testing,B9
+197,197,College Preparatory Examinations,B9
+198,198,Continuation High Schools,B9
+199,199,Dental Admission Test,B9
+200,200,Distance Education,B9
+201,201,Distance Learning,B9
+202,202,Drop Out Prevention,B9
+203,203,Drop-Out Prevention/Retention Services,B9
+204,204,Dropout Prevention,B9
+205,205,Educational Testing,B9
+206,206,Entrance Examinations,B9
+207,207,Equivalency Tests,B9
+208,208,Extra-School Settings,B9
+209,209,Graduate Management Admission Testing,B9
+210,210,Graduate Program Examinations,B9
+211,211,Graduate Record Examinations,B9
+212,212,Grammar Hotlines,B9
+213,213,High School Competency Testing,B9
+214,214,Homework Assistance,B9
+215,215,Homework Help,B9
+216,216,Homework Hotlines,B9
+217,217,Intelligence Testing,B9
+218,218,Law School Admission Testing,B9
+219,219,Medical College Admission Testing,B9
+220,220,Optometry Admission Testing,B9
+221,221,Out-of-School Hours Programs,B9
+222,222,Preliminary Scholastic Achievement Testing,B9
+223,223,Private School Placement,B9
+224,224,"Public, Private Partnerships for Education",B9
+225,225,Return to Education Support,B9
+226,226,Scholastic Aptitude Testing,B9
+227,227,Scholastic Assessment Testing,B9
+228,228,Special Education Assessment,B9
+229,229,Student Retention,B9
+230,230,Student Testing,B9
+231,231,Study Skills Assistance,B9
+232,232,Subject-Specific Tutoring,B9
+233,233,Truancy Counseling,B9
+234,234,Tutoring,B9
+235,235,Century Community Learning Centers Initiative Programs,B9
+236,236,Children Literacy,B9
+237,237,Reading Encouragement,B9
+238,238,Reading is Fundamental,B9
+239,239,Remedial Reading,B9
+240,240,Remedial Spelling,B9
+241,241,RIF,B9
+242,242,Congress of Parents & Teachers,B9
+243,243,Congress of Parents and Teachers,B9
+244,244,Parent Teacher and Students,B9
+245,245,Parent Teacher Associations,B9
+246,246,Parent Teacher Organizations,B9
+247,247,PTA,B9
+248,248,PTO,B9
+249,249,PTSA,B9
+250,250,PTSO,B9
+251,251,Faculty Groups,B9
+252,252,Acid Rain,C2
+253,253,Air Pollution,C2
+254,254,Asbestos Removal,C2
+255,255,Asbestos Testing,C2
+256,256,Atmospheric Contamination,C2
+257,257,Carbon Monoxide Testing,C2
+258,258,Clean Air,C2
+259,259,Climatic Change,C2
+260,260,Drinking Water Testing,C2
+261,261,Environmental Hazards Cleanup,C2
+262,262,Environmental Hazards Control,C2
+263,263,Environmental Pollution,C2
+264,264,Environmental Sanitation,C2
+265,265,Global Warming,C2
+266,266,Greenhouse Effect,C2
+267,267,Greenhouse Gases,C2
+268,268,Hazardous Materials Cleanup,C2
+269,269,Hazardous Materials Control,C2
+270,270,Hazardous Materials Monitoring,C2
+271,271,Hazardous Materials Transportation,C2
+272,272,Hazardous Wastes,C2
+273,273,Household Hazardous Wastes,C2
+274,274,Indoor Air Pollution,C2
+275,275,Industrial Hazardous Wastes,C2
+276,276,Landfills,C2
+277,277,Lead Paint,C2
+278,278,Lead Testing,C2
+279,279,"Medical Waste Disposal, Noise Pollution",C2
+280,280,Nuclear Wastes,C2
+281,281,Oil Spill Cleanup,C2
+282,282,Pesticides,C2
+283,283,Pollution Abatement,C2
+284,284,Pollution Control,C2
+285,285,Poor Air Quality,C2
+286,286,Radiation Control,C2
+287,287,Radiation Testing,C2
+288,288,Radon Testing,C2
+289,289,Rising Sea Levels,C2
+290,290,Sanitation,C2
+291,291,Sewage,C2
+292,292,Sludge Sites,C2
+293,293,Smog,C2
+294,294,Soil Contaminant Testing,C2
+295,295,Soil Testing,C2
+296,296,Solid Waste Management,C2
+297,297,Tap Water Testing,C2
+298,298,Toxic Substances,C2
+299,299,Toxic Wastes,C2
+300,300,Waste Disposal,C2
+301,301,Waste Management,C2
+302,302,Waste Spills,C2
+303,303,Waste Transport,C2
+304,304,Water Pollution,C2
+305,305,Water Pollution Control,C2
+306,306,Bush Survival,C6
+307,307,Ecotourism,C6
+308,308,Environmental Education,C6
+309,309,Environmental Interpretive Centers,C6
+310,310,Nature Centers,C6
+311,311,Nature Walks,C6
+312,312,Orienteering,C6
+313,313,Outdoor Education,C6
+314,314,Outdoor Survival,C6
+315,315,Outdoor Survival Skills,C6
+316,316,Outward Bound,C6
+317,317,Wilderness Survival Skills,C6
+318,318,Adopt-A-Burro,D2
+319,319,Adopt-A-Greyhound,D2
+320,320,Adopt-A-Horse,D2
+321,321,Adopt-A-Race Horse,D2
+322,322,Alligator Control,D2
+323,323,Animal Adoption,D2
+324,324,Animal Control,D2
+325,325,Animal Lost & Found,D2
+326,326,Animal Population Control,D2
+327,327,Animal Protection ,D2
+328,328,Animal Rescue,D2
+329,329,Animal Shelters,D2
+330,330,Animal Welfare,D2
+331,331,ASPCA,D2
+332,332,Coyote Control,D2
+333,333,Cruelty to Animals,D2
+334,334,Deer Control,D2
+335,335,Domestic Animal Protection,D2
+336,336,Domestic Animal Welfare,D2
+337,337,Equine Rescue,D2
+338,338,Farm Animal Protection,D2
+339,339,Farm Animal Welfare,D2
+340,340,Farm Animals Sanctuaries,D2
+341,341,Foster Care for Animals,D2
+342,342,Found Pets,D2
+343,343,Greyhound Adoption,D2
+344,344,Greyhound Rescue,D2
+345,345,Homeless Animals,D2
+346,346,Horse Sanctuaries,D2
+347,347,Humane Societies,D2
+348,348,Lost Animals,D2
+349,349,Lost Pets,D2
+350,350,Missing Pets,D2
+351,351,Pet Adoption,D2
+352,352,Pet Cemeteries,D2
+353,353,Pet Reunification,D2
+354,354,Predator Control,D2
+355,355,Prevention of Cruelty to Animals,D2
+356,356,Rabbit Rescue,D2
+357,357,Snake Control,D2
+358,358,Spaying & Neutering,D2
+359,359,SPCA,D2
+360,360,Stray Animal Assistance,D2
+361,361,Unwanted Animals,D2
+362,362,Unwanted Pets,D2
+363,363,Community-Based Health Services,E2
+364,364,Health Care Systems,E2
+365,365,Hospital Management Corporations,E2
+366,366,Multihospital Health Care Systems,E2
+367,367,Multihospital Systems,E2
+368,368,Acute Care Critical Access Hospitals,E2
+369,369,Acute Care Hospitals,E2
+370,370,Acute Care Medical Faciltities,E2
+371,371,Acute Care Medical Centers,E2
+372,372,Cardiac Intensive Care,E2
+373,373,Coronary Intensive Care,E2
+374,374,Emergency Rooms,E2
+375,375,Emergicenters,E2
+376,376,General Acute Care Hospitals,E2
+377,377,General Hospitals,E2
+378,378,General Intensive Care,E2
+379,379,High Risk Infant Unit Care,E2
+380,380,Hospital Emergency Care,E2
+381,381,Hospital-Based Emergency Care,E2
+382,382,ICUs,E2
+383,383,Inpatient Hospital Care,E2
+384,384,Intensive Care,E2
+385,385,Medical Centers,E2
+386,386,Military Hospitals,E2
+387,387,Neonatal Intensive Care,E2
+388,388,Neurological Intensive Care,E2
+389,389,Osteopathic hospitals,E2
+390,390,Pediatric Intensive Care,E2
+391,391,Premature Nurseries,E2
+392,392,Respiratory Intensive Care,E2
+393,393,State Hospitals,E2
+394,394,Subacute Care Hospitals,E2
+395,395,Surgical Intensive Care,E2
+396,396,Trauma Centers,E2
+397,397,Veterans Hospitals ,E2
+398,398,Cancer Hospitals,E2
+399,399,Childrens Hospitals,E2
+400,400,Extended Care Hospitals,E2
+401,401,Eye Hospitals,E2
+402,402,Maternity Hospitals,E2
+403,403,Orthopedic Hospitals,E2
+404,404,Rehabilitation Hospitals,E2
+405,405,Shriners Hospitals,E2
+406,406,Specialty Hospitals,E2
+407,407,Womens Hospitals,E2
+408,408,Acupuncture,E3
+409,409,Alternative Health Clinics,E3
+410,410,Ambulatory Surgical Centers,E3
+411,411,Ambulatory Surgery,E3
+412,412,Biofeedback,E3
+413,413,Burn Centers,E3
+414,414,Burn Institutes,E3
+415,415,Chiropractic,E3
+416,416,Day Surgery,E3
+417,417,Dental Clinics,E3
+418,418,Dental Care,E3
+419,419,Diagnostic Facilities,E3
+420,420,Diagnostic Imaging,E3
+421,421,Dialysis Centers,E3
+422,422,Eye Screening Clinics,E3
+423,423,Foot Clinics,E3
+424,424,Herbal Medicine,E3
+425,425,Homeopathic Medicine,E3
+426,426,Hospital-Based Outpatient Care,E3
+427,427,Infant Care Clinics,E3
+428,428,Infant Centers,E3
+429,429,Medical Testing Laboratories,E3
+430,430,Mobile Dental Care,E3
+431,431,Naturopathic Medicine,E3
+432,432,Neonatal Care Clinics,E3
+433,433,Neonatal Centers,E3
+434,434,Optometry Clinics,E3
+435,435,Outpatient Care,E3
+436,436,Outpatient Surgery,E3
+437,437,Pain Management,E3
+438,438,Podiatry,E3
+439,439,Rural Health Care,E3
+440,440,Rural Medical Service,E3
+441,441,Traditional Healing Arts,E3
+442,442,Well Baby Care,E3
+443,443,Well Baby Clinics,E3
+444,444,Well-Baby Care,E3
+445,445,Well-Baby Clinics,E3
+446,446,Group Health Practices,E3
+447,447,Health Maintenance Organizations,E3
+448,448,HMOs,E3
+449,449,Managed Care,E3
+450,450,Managed Health Care,E3
+451,451,Primary Health Care Providers,E3
+452,452,Ambulatory Health Centers,E3
+453,453,Clinics,E3
+454,454,Community Clinics,E3
+455,455,Community Health Centers,E3
+456,456,Community Health Clinics,E3
+457,457,Free Clinics,E3
+458,458,Health Centers,E3
+459,459,Health Clinics,E3
+460,460,Mobile Health Care,E3
+461,461,Walk-in Clinics,E3
+462,462,Abortion Clinics,E4
+463,463,Alternative Birthing Services,E4
+464,464,Birth Education,E4
+465,465,Birth Orientation,E4
+466,466,Birthing Centers,E4
+467,467,Childbirth Preparation Centers,E4
+468,468,Delivery/Childbirth Services,E4
+469,469,Early Pregnancy Classes,E4
+470,470,Fertility Treatment Centers,E4
+471,471,Genetic Counseling,E4
+472,472,Human Sexuality Counseling,E4
+473,473,Human Sexuality Education,E4
+474,474,Infertility Treatment,E4
+475,475,Lamaze,E4
+476,476,Maternal and Infant Care,E4
+477,477,Maternity Care,E4
+478,478,Midwifery,E4
+479,479,Natural Childbirth Education,E4
+480,480,Neonatal Care,E4
+481,481,Newborn Infant Care,E4
+482,482,Obstetrics and Gynecology Clinics,E4
+483,483,Post Abortion Care,E4
+484,484,Postpartum Care,E4
+485,485,Pregnancy Termination Clinics,E4
+486,486,Prenatal Care Centers,E4
+487,487,Prenatal Counseling,E4
+488,488,Pro-Choice Counseling,E4
+489,489,Pro-Life Counseling,E4
+490,490,Right to Life Counseling,E4
+491,491,Safe Sex,E4
+492,492,Sex Education,E4
+493,493,Voluntary Sterilization Centers,E4
+494,494,Sterilization,E4
+495,495,Womens Health Centers,E4
+496,496,Birth Control,E4
+497,497,Birth Spacing,E4
+498,498,Contraception,E4
+499,499,Contraceptives,E4
+500,500,Family Planning,E4
+501,501,Natural Family Planning,E4
+502,502,Planned Parenthood,E4
+503,503,Pregnancy Prevention,E4
+504,504,Art Therapy,E5
+505,505,Audiological evaluations,E5
+506,506,Auditory Training,E5
+507,507,Corrective Therapy,E5
+508,508,Cued Speech Instruction,E5
+509,509,Easter Seal Societies,E5
+510,510,Equestrian Therapy,E5
+511,511,Equine-facilitated Therapy,E5
+512,512,Equine Therapy,E5
+513,513,Dance Therapy,E5
+514,514,Easter Seal Society,E5
+515,515,Finger Spelling Instruction,E5
+516,516,Hippo Therapy,E5
+517,517,Horse Therapy,E5
+518,518,Hydrotherapy,E5
+519,519,Kinesiology,E5
+520,520,Language Therapy,E5
+521,521,Music Therapy,E5
+522,522,Occupational Therapy,E5
+523,523,Oral Communication Instruction,E5
+524,524,Pediatric Occupational Therapy,E5
+525,525,Physical Therapy,E5
+526,526,Sign Language Instruction,E5
+527,527,Speech and Hearing Centers,E5
+528,528,Speech and Language Evaluations,E5
+529,529,Speech Therapy,E5
+530,530,Therapeutic Horseback Riding,E5
+531,531,Therapeutic Horsemanship,E5
+532,532,Therapeutic Riding,E5
+533,533,Total Communication Instruction,E5
+534,534,Water Therapy,E5
+535,535,Cooperative Hospital Services,E6
+536,536,Pharmaceutical Services,E6
+537,537,Pharmacies,E6
+538,538,Pharmacology,E6
+539,539,"Shock, Trauma Programs",E6
+540,540,Blood Banks,E6
+541,541,Blood Donations,E6
+542,542,Blood Donor Stations,E6
+543,543,Blood Drives,E6
+544,544,Blood Supply,E6
+545,545,Plasma Supply,E6
+546,546,Whole Blood Substitute,E6
+547,547,Advanced Life Support,E6
+548,548,Ambulance,E6
+549,549,Ambulance Transport,E6
+550,550,"Basic Life Support,",E6
+551,551,Emergency Medical Air Transport,E6
+552,552,Emergency Medical Care,E6
+553,553,Emergency Medical Services,E6
+554,554,Emergency Medical Technicians,E6
+555,555,Emergency Medical Transport,E6
+556,556,Emergency Medical Vehicle,E6
+557,557,EMS,E6
+558,558,EMT,E6
+559,559,First Aid Squads,E6
+560,560,First Responders,E6
+561,561,Life Squad,E6
+562,562,Lifelines,E6
+563,563,Mercy Flights,E6
+564,564,Rescue Squads,E6
+565,565,Trauma Care,E6
+566,566,Trauma Systems,E6
+567,567,Anatomical Gifts,E6
+568,568,Body Donations,E6
+569,569,Bone Banks,E6
+570,570,Bone Marrow Donations,E6
+571,571,Ear Banks,E6
+572,572,Eye Banks,E6
+573,573,Organ Banks,E6
+574,574,Organ Donations,E6
+575,575,Tissue Banks,E6
+576,576,Tissue Donations,E6
+577,577,Biohazards Research,E7
+578,578,Biostatistics,E7
+579,579,Centers for Disease Control,E7
+580,580,Childhood Immunizations,E7
+581,581,Communicable Diseases Control and Prevention,E7
+582,582,Community Health Promotion,E7
+583,583,Community Wellness,E7
+584,584,Disease Outbreaks,E7
+585,585,Diseases Control and Prevention,E7
+586,586,Employee Health,E7
+587,587,Environmental Health Hazards,E7
+588,588,Environmental Health,E7
+589,589,Environmental Medicine,E7
+590,590,Environmental Toxicology,E7
+591,591,Epidemiology,E7
+592,592,Ergonomics,E7
+593,593,Flu Shots,E7
+594,594,Foreign Travel Shots,E7
+595,595,Health Biostatistics,E7
+596,596,Health Fairs,E7
+597,597,Health Maintenance,E7
+598,598,Health Promotion,E7
+599,599,Health Screening,E7
+600,600,Immunizations,E7
+601,601,Industrial Hygiene,E7
+602,602,Industrial Medicine,E7
+603,603,Industrial Safety,E7
+604,604,Inoculations,E7
+605,605,International Health,E7
+606,606,International Public Health,E7
+607,607,Mass Health Screening,E7
+608,608,Medical Biostatistics,E7
+609,609,National Health,E7
+610,610,National Institutes of Health,E7
+611,611,Occupation Health Promotion,E7
+612,612,Occupational Health and Safety,E7
+613,613,Occupational Safety,E7
+614,614,Preventive Health,E7
+615,615,Public Health Medicine,E7
+616,616,"Sexually Transmitted  Disease Control, Prevention",E7
+617,617,Surgeon General,E7
+618,618,Vaccinations,E7
+619,619,"Venereal Disease Control, Prevention",E7
+620,620,Virology,E7
+621,621,Wellness,E7
+622,622,Worker Health,E7
+623,623,Workplace Health Promotion,E7
+624,624,Workplace Safety,E7
+625,625,Workplace Wellness,E7
+626,626,Worksite Wellness,E7
+627,627,World Health,E7
+628,628,Advance Care Planning,E8
+629,629,Advance Directives Planning,E8
+630,630,Advance Health Care Planning,E8
+631,631,Advance Medical Planning,E8
+632,632,Black Lung Benefits Trust,E8
+633,633,End of life Care Planning,E8
+634,634,End of life Planning,E8
+635,635,End-of-life Care Planning,E8
+636,636,End-of-life Planning,E8
+637,637,AIDS Drug Assistance,E8
+638,638,Black Lung Benefit Trusts,E8
+639,639,Health Care Cost Containment,E8
+640,640,Bioethics,E8
+641,641,Health Care Costs,E8
+642,642,Health Care Economics,E8
+643,643,Health Care Fees & Charges,E8
+644,644,Health Care Financing,E8
+645,645,Health Insurance,E8
+646,646,Health Insurance Counseling,E8
+647,647,Health Insurance Premium Assistance,E8
+648,648,HMO Financing,E8
+649,649,Hospital Bill Assistance,E8
+650,650,Medical Bioethics,E8
+651,651,Medical Care Costs,E8
+652,652,Medical Ethics,E8
+653,653,Medical Expense Assistance,E8
+654,654,Medical Sociology,E8
+655,655,Medicare Counseling,E8
+656,656,Medigap Insurance Counseling,E8
+657,657,Medication Expense Assistance,E8
+658,658,Patient Care Planning,E8
+659,659,Patient Services,E8
+660,660,Prepaid Health Care,E8
+661,661,Prescription Drug Costs,E8
+662,662,Prescription Expense Assistance,E8
+663,663,Ryan White Consortium,E8
+664,664,State-Sponsored High-Risk Health Coverage,E8
+665,665,Treatment Costs,E8
+666,666,Terminal Care Planning,E8
+667,667,Caregiver Support,E8
+668,668,Caregiver Training,E8
+669,669,Cancer Lodges,E8
+670,670,Health Care Counseling,E8
+671,671,Health Resocialization,E8
+672,672,Hostels,E8
+673,673,Hospital Lodges,E8
+674,674,Hospitality Houses,E8
+675,675,Make-a-Wish,E8
+676,676,Medical Apartments,E8
+677,677,Medical Treatment Lodges,E8
+678,678,Patient Entertainment,E8
+679,679,Patient Housing,E8
+680,680,Patient/ Family Housing,E8
+681,681,Patient/Family Enrichment,E8
+682,682,Patient Recreation,E8
+683,683,Patient Services Counseling,E8
+684,684,Ronald McDonald Houses,E8
+685,685,Wish Foundations,E8
+686,686,Adult Family Care Homes,E9
+687,687,Alzheimers Homes,E9
+688,688,Chronic Care Homes,E9
+689,689,Convalescent Facilities,E9
+690,690,Convalescent Hospitals,E9
+691,691,Extended Care Facilities,E9
+692,692,Geriatric Centers,E9
+693,693,Homes for Aging,E9
+694,694,Intermediate Care Facilities,E9
+695,695,Long Term Care Facilities,E9
+696,696,Long Term Custodial Care,E9
+697,697,Long-Term Care Facilities,E9
+698,698,Long-Term Custodial Care,E9
+699,699,Nursing Care,E9
+700,700,Nursing Home Facilities,E9
+701,701,Nursing Homes,E9
+702,702,Rest Homes,E9
+703,703,Skilled Nursing Facilities,E9
+704,704,Geriatric Home Nursing,E9
+705,705,Home Infusion Therapy,E9
+706,706,Home Care Services,E9
+707,707,Home Infusion Therapy,E9
+708,708,Home Nursing Care,E9
+709,709,Medical/Surgical Home Nursing,E9
+710,710,Oncology Home Nursing,E9
+711,711,Pediatric Home Nursing,E9
+712,712,Private Duty Nursing,E9
+713,713,Psychiatric Home Nursing,E9
+714,714,Registered Home Nursing,E9
+715,715,Rehabilitation Home Nursing,E9
+716,716,Restorative Home Nursing,E9
+717,717,Visiting Doctors,E9
+718,718,Visiting Nurses,E9
+719,719,Visiting Physicians,E9
+720,720,Addiction,F2
+721,721,Alcohol Abuse,F2
+722,722,Alcoholism,F2
+723,723,Chemical Dependency,F2
+724,724,Drug Abuse,F2
+725,725,Drug Addiction,F2
+726,726,Substance Abuse,F2
+727,727,Substance Dependence,F2
+728,728,Addiction,F2
+729,729,Alcohol Abuse Awareness,F2
+730,730,Alcohol Abuse Education,F2
+731,731,Alcohol Abuse Prevention,F2
+732,732,Alcoholism,F2
+733,733,Chemical Dependency,F2
+734,734,D.A.R.E.,F2
+735,735,DARE,F2
+736,736,Drug Abuse Awareness,F2
+737,737,Drug Abuse Education,F2
+738,738,Drug Abuse Prevention,F2
+739,739,Drug Abuse Resistance Education,F2
+740,740,Drug Addiction,F2
+741,741,Substance Abuse Awareness,F2
+742,742,Substance Abuse Education,F2
+743,743,Substance Abuse Prevention,F2
+744,744,Substance Dependence,F2
+745,745,AA,F2
+746,746,Addiction,F2
+747,747,Alanon,F2
+748,748,Alateen,F2
+749,749,Alcohol Abuse Counseling,F2
+750,750,Alcohol Abuse Day Treatment,F2
+751,751,Alcohol Abuse Half-Way Houses,F2
+752,752,Alcohol Abuse Hotlines,F2
+753,753,Alcohol Detoxification,F2
+754,754,Alcoholics Anonymous,F2
+755,755,Alcoholism Drop-In Services,F2
+756,756,Alcoholism Recovery Group Homes,F2
+757,757,Alcoholism Recovery Hospitals,F2
+758,758,Alcoholism Rehabilitation,F2
+759,759,Alcohol-Related Crisis Intervention,F2
+760,760,Assessment for Substance Abuse,F2
+761,761,Central Intake/Assessment for Alcohol Abuse,F2
+762,762,Central Intake/Assessment for Drug Abuse,F2
+763,763,Central Intake/Assessment for Substance Abuse,F2
+764,764,Chemical Dependency Recovery Hospitals,F2
+765,765,Cocaine Anonymous,F2
+766,766,Drug Abuse Counseling,F2
+767,767,Drug Abuse Day Treatment,F2
+768,768,Drug Abuse Drop-In Services,F2
+769,769,Drug Abuse Half-Way Houses,F2
+770,770,Drug Abuse Hotlines,F2
+771,771,Drug Abuse Maintenance Treatment,F2
+772,772,Drug Abuse Recovery Group Homes,F2
+773,773,Drug Abuse Rehabilitation,F2
+774,774,Drug Addiction,F2
+775,775,Drug Dependency Recovery Hospitals,F2
+776,776,Drug Detoxification,F2
+777,777,Drug-Related Crisis Intervention,F2
+778,778,Emergency Alcoholism Services,F2
+779,779,Emergency Drug Abuse Services,F2
+780,780,Heroin Detoxification,F2
+781,781,Inpatient Alcoholism Treatment,F2
+782,782,Inpatient Drug Abuse Treatment,F2
+783,783,Inpatient Substance Abuse Hospitals,F2
+784,784,Methadone Detoxification,F2
+785,785,Naranon,F2
+786,786,Narcotics Anonymous,F2
+787,787,Outpatient Alcohol Abuse Treatment,F2
+788,788,Outpatient Drug Abuse Treatment,F2
+789,789,Outpatient Substance Abuse Treatment,F2
+790,790,Relapse Prevention/Transitional Substance Abuse,F2
+791,791,Residential Alcoholism Treatment,F2
+792,792,Residential Dug Abuse Treatment,F2
+793,793,Residential Substance Abuse Treatment,F2
+794,794,Sober Living Centers,F2
+795,795,Sobering Up Stations,F2
+796,796,Substance Abuse Counseling,F2
+797,797,Substance Abuse Crisis Intervention,F2
+798,798,Substance Abuse Day Treatment,F2
+799,799,Substance Abuse Drop-In Services,F2
+800,800,Substance Abuse Half-Way Houses,F2
+801,801,Substance Abuse Hospitals,F2
+802,802,Substance Abuse Hotlines,F2
+803,803,Substance Abuse Maintenance Treatment,F2
+804,804,Substance Abuse Recovery Group Homes,F2
+805,805,Substance Abuse Rehabilitation,F2
+806,806,Substance Dependence,F2
+807,807,Supportive Recovery Homes,F2
+808,808,Transitional Housing for Alcohol Abuse,F2
+809,809,Transitional Housing for Drug Abuse,F2
+810,810,Transitional Housing for Substance Abuse,F2
+811,811,Transitional Residential Alcohol Abuse Services,F2
+812,812,Transitional Residential Drug Abuse Services,F2
+813,813,Transitional Residential Substance Abuse Services,F2
+814,814,Twelve-Step Substance Abuse Mutual Support Groups,F2
+815,815,Animal-Assisted Therapy,F3
+816,816,Clinical Evaluation,F3
+817,817,Early Intervention,F3
+818,818,Forensic Psychiatric Evaluations,F3
+819,819,Hug-A-Pet Programs,F3
+820,820,Mental Health Related,F3
+821,821,Mental  Health Twelve Step,F3
+822,822,Mental Health Drop-in Centers,F3
+823,823,Mental Health Evaluation,F3
+824,824,Outpatient Mental Health Facilities,F3
+825,825,Pet-Assisted Therapy,F3
+826,826,Pet Therapy,F3
+827,827,Psychiatric Day Treatment Facilities,F3
+828,828,Psychological Testing,F3
+829,829,Psychosocial Evaluation,F3
+830,830,Hospitals for the Mentally Ill,F3
+831,831,Inpatient Mental Health Facilities,F3
+832,832,Inpatient Mental Health Treatment,F3
+833,833,Psychiatric Hospitals,F3
+834,834,State Mental Hospitals,F3
+835,835,Community Mental Health Clinics,F3
+836,836,Neighborhood Mental Health Centers,F3
+837,837,Boys Ranches,F3
+838,838,"Group Homes, Housing",F3
+839,839,Mental Health Related,F3
+840,840,Transitional Residential Mental Health Care,F3
+841,841,"Residential Treatment Facilities, Mental Health Related",F3
+842,842,Crisis Intervention Groups,F4
+843,843,Telephone Crisis Hotlines,F4
+844,844,Helplines,F4
+845,845,Hotlines,F4
+846,846,Mental Health Hotlines,F4
+847,847,Suicide Prevention,F4
+848,848,Rape Crisis Counseling,F4
+849,849,Rape Victim Hotlines,F4
+850,850,Sexual Assault Services,F4
+851,851,Addictive Behavior,F5
+852,852,Compulsive Behavior,F5
+853,853,Computer Addiction,F5
+854,854,Pathological Cravings,F5
+855,855,Shopaholic,F5
+856,856,Workaholic,F5
+857,857,Anti-Smoking Campaigns,F5
+858,858,Nicotine Addiction,F5
+859,859,Nicotine Dependency,F5
+860,860,Smoking Cessation,F5
+861,861,Smoking Education,F5
+862,862,Smoking Prevention,F5
+863,863,Smoking Withdrawal Clinics,F5
+864,864,Stop Smoking,F5
+865,865,Tobacco Addiction,F5
+866,866,Tobacco Habit,F5
+867,867,Anorexia,F5
+868,868,Binge Eating,F5
+869,869,Boulimia,F5
+870,870,Bulimarexia,F5
+871,871,Bulimia,F5
+872,872,Dysorexia,F5
+873,873,Eating Addictions,F5
+874,874,Eating Disorders,F5
+875,875,Hyperphagia,F5
+876,876,Obesity,F5
+877,877,Overeating,F5
+878,878,Pica,F5
+879,879,Rumination Disorder,F5
+880,880,Compulsive Gambling,F5
+881,881,Gamblers Anonymous,F5
+882,882,Pathological Gambling,F5
+883,883,Adolescent Counseling,F6
+884,884,Adult Incest Survivor Counseling,F6
+885,885,Anger Management,F6
+886,886,Bereavement Counseling,F6
+887,887,Child Abuse Counseling,F6
+888,888,CISD,F6
+889,889,Critical Incident Stress Debriefing,F6
+890,890,Cult Membership Counseling,F6
+891,891,Cultural Transition Counseling,F6
+892,892,Disability Counseling,F6
+893,893,Elder Abuse Counseling,F6
+894,894,Employee Assistance,F6
+895,895,Employment Transition Counseling,F6
+896,896,Family Violence Counseling,F6
+897,897,Geriatric Counseling,F6
+898,898,Gestalt Therapy,F6
+899,899,Grief Counseling,F6
+900,900,Health Problems Counseling,F6
+901,901,Parent Abuse Counseling,F6
+902,902,Peer Counseling,F6
+903,903,Psychiatric Disorder Counseling,F6
+904,904,Sexual Offender Counseling,F6
+905,905,Sexual Orientation Counseling,F6
+906,906,Sexuality Counseling,F6
+907,907,Spousal Abuse Counseling,F6
+908,908,Spouse Abuse Counseling,F6
+909,909,Terminal Illness Counseling,F6
+910,910,Veteran Counseling,F6
+911,911,Youth Counseling,F6
+912,912,Acute Stress Disorder,F7
+913,913,ADD,F7
+914,914,ADHD,F7
+915,915,Adjustment Disorders,F7
+916,916,Affective Disorders,F7
+917,917,Agoraphobia,F7
+918,918,Amnesia Antisocial Personality Disorder,F7
+919,919,Anxiety Disorders,F7
+920,920,Attention Deficit & Disruptive Behavior Disorders,F7
+921,921,Attention Deficit Disorders,F7
+922,922,Attention-Deficiency/Hyperactivity Disorder,F7
+923,923,Avoidant Personality Disorder,F7
+924,924,Bipolar Disorder,F7
+925,925,Body Dymorphic Disorder,F7
+926,926,Borderline Personality Disorder,F7
+927,927,Breathing-Related Sleep Disorder,F7
+928,928,Briquet Syndrome,F7
+929,929,Capgras Syndrome,F7
+930,930,Catatonic Schizophrenia,F7
+931,931,Child Mental Disorders,F7
+932,932,Childhood Mental Health Disorders,F7
+933,933,Circadian Rhythm Sleep Disorder,F7
+934,934,Clereambault Syndrome,F7
+935,935,Cognitive Disorders,F7
+936,936,Conduct Disorders,F7
+937,937,Conversion Disorder,F7
+938,938,Cyclothymic Disorder,F7
+939,939,Delirium,F7
+940,940,Delusional Disorder,F7
+941,941,Dementia,F7
+942,942,Dependent Personality Disorder,F7
+943,943,Depersonalization Disorder,F7
+944,944,Depression,F7
+945,945,Disorganized Schizophrenia,F7
+946,946,Disruptive Behavior Disorders,F7
+947,947,Dissociative Amnesia,F7
+948,948,Dissociative Disorders,F7
+949,949,Dissociative Identity Disorder,F7
+950,950,Dysthymic Disorder,F7
+951,951,Encopresis,F7
+952,952,Enuresis,F7
+953,953,Exhibitionism,F7
+954,954,Factitious Disorders,F7
+955,955,False Memory Syndrome,F7
+956,956,Fetishism,F7
+957,957,Frotteurism,F7
+958,958,Fugue,F7
+959,959,GAD: Ganser Syndrome,F7
+960,960,Gender Dysphoria,F7
+961,961,Gender Identity Disorder,F7
+962,962,Generalized Anxiety Disorders,F7
+963,963,Histrionic Personality Disorder,F7
+964,964,Hypersomnia,F7
+965,965,Hypochondria,F7
+966,966,Hypocondriasis,F7
+967,967,Hysteria,F7
+968,968,Insomnia,F7
+969,969,Intermittent Explosive Disorder,F7
+970,970,Kleptomania,F7
+971,971,Kluver-Bucy Syndrome,F7
+972,972,Manic Depression,F7
+973,973,Masochism,F7
+974,974,Mental Disorders,F7
+975,975,Mental Illness,F7
+976,976,Mood Disorders,F7
+977,977,Multiple Personality Disorder,F7
+978,978,Munchausen Syndrome,F7
+979,979,Mutism,F7
+980,980,Narcissistic Personality Disorder,F7
+981,981,Nightmare Disorder,F7
+982,982,Obsessive-Compulsive Disorders,F7
+983,983,Obsessive-Compulsive Personality Disorder,F7
+984,984,OCD,F7
+985,985,ODD,F7
+986,986,Oppositional Defiant Disorder,F7
+987,987,Organic Mental Disorders,F7
+988,988,Pain Disorders,F7
+989,989,Panic Attacks,F7
+990,990,Panic Disorder,F7
+991,991,Paranoid Personality Disorder,F7
+992,992,Paranoid Schizophrenia,F7
+993,993,Paraphilias,F7
+994,994,Parasomnias,F7
+995,995,Passive-Aggressive Personality Disorder,F7
+996,996,Pedophilia,F7
+997,997,Personality Disorders,F7
+998,998,Postpartum Depression,F7
+999,999,Posttraumatic Stress Syndrome,F7
+1000,1000,Pseudodementia,F7
+1001,1001,Pseudopsychosis,F7
+1002,1002,Psychiatric Illness,F7
+1003,1003,Psychological Sexual Dysfunctions,F7
+1004,1004,Psychotic Disorders,F7
+1005,1005,Psychotic Disorders,F7
+1006,1006,Pyromania,F7
+1007,1007,Sadism,F7
+1008,1008,Schizoid Personality Disorder,F7
+1009,1009,Schizophrenia,F7
+1010,1010,Schizotypal Personality Disorder,F7
+1011,1011,Seasonal Affective Disorder,F7
+1012,1012,Separation Anxiety,F7
+1013,1013,Sexual & Gender Identity Disorders,F7
+1014,1014,Sexual Arousal Disorders,F7
+1015,1015,Sexual Desires Disorders,F7
+1016,1016,Sexual Masochism,F7
+1017,1017,Sexual Sadism,F7
+1018,1018,Shared Paranoid Schizophrenia,F7
+1019,1019,Sleep Disorders,F7
+1020,1020,Sleep Terror Disorder,F7
+1021,1021,Sleepwalking Disorders,F7
+1022,1022,Social Phobia,F7
+1023,1023,Somatoform Disorders,F7
+1024,1024,Stereotypic Movement Disorder,F7
+1025,1025,Stress Related Disorders,F7
+1026,1026,Tic Disorders,F7
+1027,1027,Tourette Syndrome,F7
+1028,1028,Transvestic Fetishism,F7
+1029,1029,Traumatic Psychoses,F7
+1030,1030,Trichotillomania,F7
+1031,1031,Vaginismus,F7
+1032,1032,Voyeurism,F7
+1033,1033,Multipurpose Mental Health Associations,F8
+1034,1034,Achronplasia,G2
+1035,1035,Alagille Syndrome,G2
+1036,1036,Albinism,G2
+1037,1037,Amaurotic Familial Idiocy,G2
+1038,1038,Bardet-Biedl Syndrome,G2
+1039,1039,Birth Defects,G2
+1040,1040,Cerebral Palsy,G2
+1041,1041,Charcot-Marie Disease,G2
+1042,1042,Charcot-Marie-Tooth Disease,G2
+1043,1043,Chromosome Disorders,G2
+1044,1044,Clubfoot,G2
+1045,1045,Coffin-Lowrey Syndrome,G2
+1046,1046,Congenital Defects,G2
+1047,1047,Cri-du-Chat Syndrome,G2
+1048,1048,Crying Cat Syndrome,G2
+1049,1049,Cryptorchidism,G2
+1050,1050,Cystic Fibrosis,G2
+1051,1051,Cytochrome-c Oxidase Deficiency,G2
+1052,1052,Dandy-Walker Syndrome,G2
+1053,1053,De Lange Syndrome,G2
+1054,1054,Developmental Coordination Disorder,G2
+1055,1055,Factor X Deficiency,G2
+1056,1056,Fetal Alcohol Syndrome,G2
+1057,1057,Fragile X Syndrome,G2
+1058,1058,Friedreich Ataxia,G2
+1059,1059,Genetic Diseases,G2
+1060,1060,Hemophilia,G2
+1061,1061,Hereditary Diseases,G2
+1062,1062,Huntingtons Disease,G2
+1063,1063,Jervell-Lange Nielsen Syndrome,G2
+1064,1064,Kartagener Syndrome,G2
+1065,1065,Klinefelter Syndrome,G2
+1066,1066,Laurence-Moon Syndrome,G2
+1067,1067,Leigh Disease,G2
+1068,1068,Lesch-Nyhan Syndrome,G2
+1069,1069,Littles Disease,G2
+1070,1070,Lynch Syndrome,G2
+1071,1071,March of Dimes,G2
+1072,1072,Marfan Syndrome,G2
+1073,1073,Martin-Bell Syndrome,G2
+1074,1074,Mental Retardation,G2
+1075,1075,Motor Skills Disorder,G2
+1076,1076,Neurofibromatosis,G2
+1077,1077,Oral-Facial Clefts,G2
+1078,1078,Phenylketonuria,G2
+1079,1079,PKU,G2
+1080,1080,Porphyria,G2
+1081,1081,Prader-Willi Syndrome,G2
+1082,1082,Pseudoxanthoma Elasticum,G2
+1083,1083,Pyruvate Carboxylase Deficiency Disease,G2
+1084,1084,Pyruvate Dehydrogenase Complex Deficiency Disease,G2
+1085,1085,Rett Disorder,G2
+1086,1086,Rett Syndrome,G2
+1087,1087,Retts Disorder,G2
+1088,1088,Retts Syndrome,G2
+1089,1089,Rett's Disorder,G2
+1090,1090,Rett's Syndrome,G2
+1091,1091,Rh Disease,G2
+1092,1092,Romano-Ward Syndrome,G2
+1093,1093,Rubinstein-Taybi Syndrome,G2
+1094,1094,Sickle Cell,G2
+1095,1095,Spina Bifida,G2
+1096,1096,Sudden Infant Death,G2
+1097,1097,Tay Sachs,G2
+1098,1098,Testicular Feminization Syndrome,G2
+1099,1099,Thalassemia,G2
+1100,1100,Turner Syndrome,G2
+1101,1101,Turners Syndrome,G2
+1102,1102,WAGR Syndrome,G2
+1103,1103,Werner Syndrome,G2
+1104,1104,Williams Syndrome,G2
+1105,1105,Xeroderma Pigmentosum,G2
+1106,1106,Trisomy,G2
+1107,1107,Down Anomaly,G2
+1108,1108,Downs Anomaly,G2
+1109,1109,Downs Syndrome,G2
+1110,1110,Mongolism,G2
+1111,1111,Trisomy 21,G2
+1112,1112,Bladder Cancer,G3
+1113,1113,Bone Cancer,G3
+1114,1114,Burkitts Lymphoma,G3
+1115,1115,Cancer,G3
+1116,1116,Carcinoma,G3
+1117,1117,Cervical Cancer,G3
+1118,1118,Colon Cancer,G3
+1119,1119,Colorectal Cancer,G3
+1120,1120,Fallopian Tube Cancer,G3
+1121,1121,Kaposi Sarcoma,G3
+1122,1122,Leukemia,G3
+1123,1123,Liver Cancer,G3
+1124,1124,Lung Cancer,G3
+1125,1125,Lymphoma,G3
+1126,1126,Melanoma,G3
+1127,1127,Multiple Myeloma,G3
+1128,1128,Oral Cancer,G3
+1129,1129,Ovarian Cancer,G3
+1130,1130,Pagets Disease,G3
+1131,1131,Pancreatic Cancer,G3
+1132,1132,Prostate Cancer,G3
+1133,1133,Rectal Cancer,G3
+1134,1134,Renal Cancer,G3
+1135,1135,Sarcoma,G3
+1136,1136,Skin Cancer,G3
+1137,1137,Stomach Cancer,G3
+1138,1138,Testicular Cancer,G3
+1139,1139,Uterine Cancer,G3
+1140,1140,Vaginal Cancer,G3
+1141,1141,Vulva Cancer,G3
+1142,1142,Womens Cancer,G3
+1143,1143,Breast cancer,G3
+1144,1144,Alopecia,G4
+1145,1145,Antitrypsin Deficiency,G4
+1146,1146,Bedwetting,G4
+1147,1147,Bladder Diseases,G4
+1148,1148,Cystitis,G4
+1149,1149,Diseases of the Spleen,G4
+1150,1150,Dwarfism,G4
+1151,1151,Dystrophic Epidermolysis Bullosa,G4
+1152,1152,Endometriosis,G4
+1153,1153,Enuresis,G4
+1154,1154,Epididymitis,G4
+1155,1155,Erectile Dysfunction,G4
+1156,1156,Female Genital Diseases,G4
+1157,1157,Genitourinary Diseases,G4
+1158,1158,Hansens Disease,G4
+1159,1159,Hematuria,G4
+1160,1160,Hemoglobinuria,G4
+1161,1161,Hepatitis,G4
+1162,1162,Hydrocele,G4
+1163,1163,Impotence,G4
+1164,1164,Incontinence,G4
+1165,1165,Infertility,G4
+1166,1166,Leprosy,G4
+1167,1167,Liver Diseases,G4
+1168,1168,Male Genital Diseases,G4
+1169,1169,Menopausal Disorders,G4
+1170,1170,Oliguria,G4
+1171,1171,Ovarian Cysts,G4
+1172,1172,Penile Diseases,G4
+1173,1173,Polyuria,G4
+1174,1174,Prostatic Diseases,G4
+1175,1175,Psoriasis,G4
+1176,1176,Renal Failure,G4
+1177,1177,Sjogrens Syndrome,G4
+1178,1178,Skin Diseases,G4
+1179,1179,Thyroid Diseases,G4
+1180,1180,Ureteral Diseases,G4
+1181,1181,Urethral Diseases,G4
+1182,1182,Urinary Tract Infections,G4
+1183,1183,Urination Disorders,G4
+1184,1184,Urogenital Diseases,G4
+1185,1185,Uterine Diseases,G4
+1186,1186,Vaginal Diseases,G4
+1187,1187,Vesico-Ureteral Reflux,G4
+1188,1188,Vitiligo,G4
+1189,1189,Vulvar Diseases,G4
+1190,1190,Achromatic Vision,G4
+1191,1191,Amaurosis,G4
+1192,1192,Amblyopia,G4
+1193,1193,Ametropia,G4
+1194,1194,Aniseikonia,G4
+1195,1195,Anisometropia,G4
+1196,1196,Asthenopia,G4
+1197,1197,Astigmatism,G4
+1198,1198,Blindness,G4
+1199,1199,Choroid Diseases,G4
+1200,1200,Color Blindness,G4
+1201,1201,Conjunctival Diseases,G4
+1202,1202,Corneal Diseases,G4
+1203,1203,Diochromatic Vision,G4
+1204,1204,Diplopia,G4
+1205,1205,Double Vision,G4
+1206,1206,Duane Retraction Syndrome,G4
+1207,1207,Eyelid Diseases,G4
+1208,1208,Glaucoma,G4
+1209,1209,Hemeralopia,G4
+1210,1210,Hemianopsia,G4
+1211,1211,Hyperopia,G4
+1212,1212,Lacrimal Apparatus Diseases,G4
+1213,1213,Lens Diseases,G4
+1214,1214,Low Vision,G4
+1215,1215,Macular Degeneration,G4
+1216,1216,Miller Fisher Syndrome,G4
+1217,1217,Myopia,G4
+1218,1218,Night Blindness,G4
+1219,1219,Nyctalopia,G4
+1220,1220,Ocular Hypertension,G4
+1221,1221,Ocular Hypotension,G4
+1222,1222,Ocular Motility Disorders,G4
+1223,1223,Optic Nerve Diseases,G4
+1224,1224,Orbital Diseases,G4
+1225,1225,Presbyopia,G4
+1226,1226,Proliferative Vitreoretinopathy,G4
+1227,1227,Pupil Disorders,G4
+1228,1228,Refractive Errors,G4
+1229,1229,Retenal Diseases,G4
+1230,1230,Retinal Dysplasia,G4
+1231,1231,Retinitis Pigmentosa,G4
+1232,1232,Retinitis,G4
+1233,1233,Scleral Diseases,G4
+1234,1234,Scleritis,G4
+1235,1235,Scotoma,G4
+1236,1236,Scotoma,G4
+1237,1237,Strabismus,G4
+1238,1238,Tolosa-Hunt Syndrome,G4
+1239,1239,Tunnel Vision,G4
+1240,1240,Uveal Diseases,G4
+1241,1241,Uvenitis,G4
+1242,1242,Vision Disorders,G4
+1243,1243,Vitreous Detachment,G4
+1244,1244,Aneurysm,G4
+1245,1245,Angina Pectoris,G4
+1246,1246,Angiodysplasia,G4
+1247,1247,Angioneurotic Edema,G4
+1248,1248,Aortic Diseases,G4
+1249,1249,Arrhythmia,G4
+1250,1250,Arterial Occulsive Diseases,G4
+1251,1251,Arteriosclerosis,G4
+1252,1252,Arteritis,G4
+1253,1253,Bradycardia,G4
+1254,1254,Capillary Leak Syndrome,G4
+1255,1255,Carcinoid Heart Disease,G4
+1256,1256,Cardiac Arrest,G4
+1257,1257,Cardiac Tamponade,G4
+1258,1258,Cardiomegaly,G4
+1259,1259,Cardiovascular Diseases,G4
+1260,1260,Carotid Stenosis,G4
+1261,1261,Congestive Heart Failure,G4
+1262,1262,Coronary Thrombosis,G4
+1263,1263,CREST Syndrome,G4
+1264,1264,Dysrhythmia,G4
+1265,1265,Embolism,G4
+1266,1266,Endocarditis,G4
+1267,1267,Erythromelalgia,G4
+1268,1268,Fibromuscular Dysplasia,G4
+1269,1269,Heart Aneurysm,G4
+1270,1270,Heart Diseases,G4
+1271,1271,Heart Valve Disease,G4
+1272,1272,High Blood Pressure,G4
+1273,1273,Hperemia,G4
+1274,1274,Hypertension,G4
+1275,1275,Hypertrophy,G4
+1276,1276,Hypotension,G4
+1277,1277,Ischemic Heart Disease,G4
+1278,1278,Leriches Syndrome,G4
+1279,1279,Low Blood Pressure,G4
+1280,1280,Mesenteric Vascular Occulsion,G4
+1281,1281,Mitral Valve Prolapse,G4
+1282,1282,Myocardial Diseases,G4
+1283,1283,Myocardial Infarction,G4
+1284,1284,Myocardial Ischemia,G4
+1285,1285,Paroxysmal Tachycardia,G4
+1286,1286,Pericardial Effusion,G4
+1287,1287,Pericarditis,G4
+1288,1288,Peripheral Vascular Diseases,G4
+1289,1289,Phlebitis,G4
+1290,1290,Phlebolgy,G4
+1291,1291,Pneumopericardium,G4
+1292,1292,Polyarteritis Nodosa,G4
+1293,1293,Postpericardiotomy Syndrome,G4
+1294,1294,Postphlebitic Syndrome,G4
+1295,1295,Pulmonary Heart Disease,G4
+1296,1296,Pulmonary Veno-Occulsive Disease,G4
+1297,1297,Raynauds Disease,G4
+1298,1298,Retinal Vein Occulsion,G4
+1299,1299,Rheumatic Heart Disease,G4
+1300,1300,Scimitar Syndrome,G4
+1301,1301,Shwartzman Phenomenon,G4
+1302,1302,Stroke,G4
+1303,1303,Spinal Cord Vascular Diseases,G4
+1304,1304,Superior Vena Cava Syndrome,G4
+1305,1305,Tachycardia,G4
+1306,1306,Telangiectasis,G4
+1307,1307,Thoracic Outlet Syndrome,G4
+1308,1308,Thromboangiitis Obiterans,G4
+1309,1309,Thrombophlebitis,G4
+1310,1310,Thrombosis,G4
+1311,1311,Varicose Veins,G4
+1312,1312,Variococele,G4
+1313,1313,Vascualr Fistula,G4
+1314,1314,Vascular Diseases,G4
+1315,1315,Vasculitis,G4
+1316,1316,Vasuclar Hemostatic Disorders,G4
+1317,1317,Venous Disorders,G4
+1318,1318,Venous Insufficiency,G4
+1319,1319,Ventricular Dysfunciton,G4
+1320,1320,Waldenstrom Macroglobulinemia,G4
+1321,1321,Anuria,G4
+1322,1322,Cystic Kidney,G4
+1323,1323,Fanconi Syndrome,G4
+1324,1324,Glomerulonephritis,G4
+1325,1325,Hemolytic-Uremic Syndrome,G4
+1326,1326,Hepatorenal Syndrome,G4
+1327,1327,Hydronephosis,G4
+1328,1328,Kidney Calculi,G4
+1329,1329,Kidney Cortex Necrosis,G4
+1330,1330,Kidney Failure,G4
+1331,1331,Kidney Papillary Necrosis,G4
+1332,1332,Kidney Stones,G4
+1333,1333,Nephritis,G4
+1334,1334,Nephrocalcinosis,G4
+1335,1335,Nephrosclerosis,G4
+1336,1336,Nephrosis,G4
+1337,1337,Nephrotic Syndrome,G4
+1338,1338,Perinephritis,G4
+1339,1339,Primary Hyperoxaluria,G4
+1340,1340,Pyelitis,G4
+1341,1341,Pyelonephritis,G4
+1342,1342,Real Artery Obstruction,G4
+1343,1343,Renal Failure,G4
+1344,1344,Renal Hypertension,G4
+1345,1345,Renal Osteodystrophy,G4
+1346,1346,Uremia,G4
+1347,1347,Asbestosis,G4
+1348,1348,Berylliosis,G4
+1349,1349,Black Lung Disease,G4
+1350,1350,Bronchial Diseases,G4
+1351,1351,Bronchiolitis Obliterans,G4
+1352,1352,Bronchitis,G4
+1353,1353,Bronchopulmonary Dysplasia,G4
+1354,1354,Byssinosis,G4
+1355,1355,Caplans Syndrome,G4
+1356,1356,Dyspnea,G4
+1357,1357,Emphysema,G4
+1358,1358,Eosinophilic Granuloma,G4
+1359,1359,Goodpasture Syndrome,G4
+1360,1360,Hand-Schueller-Christian Syndrome,G4
+1361,1361,Hemoptysis,G4
+1362,1362,Hyaline Membrane Disease,G4
+1363,1363,Interstitial Lung Diseases,G4
+1364,1364,Langerhans-Cell Histiocytosis,G4
+1365,1365,Letterer-Siwe Disease,G4
+1366,1366,Lung Abscess,G4
+1367,1367,Meconium Aspiration,G4
+1368,1368,Middle Lobe Syndrome,G4
+1369,1369,Non-Langerhans-Cell Histiocytosis,G4
+1370,1370,Obstructive Lung Diseases,G4
+1371,1371,Parasitic Lung Diseases,G4
+1372,1372,Pleural Diseases,G4
+1373,1373,Pleurisy,G4
+1374,1374,Pleuropneumonia,G4
+1375,1375,Pneumoconiosis,G4
+1376,1376,Pneumonia,G4
+1377,1377,Pulmonary Alveolar Proteinosis,G4
+1378,1378,Pulmonary Coin Lesion,G4
+1379,1379,Pulmonary Diseases,G4
+1380,1380,Pulmonary Edema,G4
+1381,1381,Pulmonary Embolism,G4
+1382,1382,Pulmonary Eosinophilia,G4
+1383,1383,Pulmonary Fibrosis,G4
+1384,1384,Pulmonary Plasma Cell Granuloma,G4
+1385,1385,Pulmonary Sarcoidosis,G4
+1386,1386,Radiation Pneumonitis,G4
+1387,1387,Respiration Disorders,G4
+1388,1388,Respiratory Distress Syndrome,G4
+1389,1389,Respiratory Insufficiency,G4
+1390,1390,Respiratory System Diseases,G4
+1391,1391,Respiratory Tract Diseases,G4
+1392,1392,Siderosis,G4
+1393,1393,Silicosis,G4
+1394,1394,Silo Fillers Disease,G4
+1395,1395,Tuberculosis,G4
+1396,1396,Wegeners Granulomatosis,G4
+1397,1397,Basal Ganglia Diseases,G4
+1398,1398,Brain Damage,G4
+1399,1399,Brain Diseases,G4
+1400,1400,Brain Injury,G4
+1401,1401,Brain Tumor,G4
+1402,1402,Cerebellar Diseases,G4
+1403,1403,Cerebrovascular Disorders,G4
+1404,1404,Chorea Gravidarum,G4
+1405,1405,Dejerine-Roussy Syndrome,G4
+1406,1406,Encephalomalacia,G4
+1407,1407,Hallervorden-Spatz Syndrome,G4
+1408,1408,Head Injury,G4
+1409,1409,Headache Disorders,G4
+1410,1410,Intracranial Hypertension,G4
+1411,1411,Intracranial Hypotension,G4
+1412,1412,Migraine,G4
+1413,1413,Seitelbergers Disease,G4
+1414,1414,Thalamic Diseases,G4
+1415,1415,Traumatic Brain Injury,G4
+1416,1416,ALS,G5
+1417,1417,Amyotrophic Lateral Sclerosis,G5
+1418,1418,Arnold Chiari Syndrome,G5
+1419,1419,Arthrogryposis,G5
+1420,1420,Atrophic Muscular Disorders,G5
+1421,1421,Autonomic Nervous System Diseases,G5
+1422,1422,Batten Disease,G5
+1423,1423,Bell Palsy,G5
+1424,1424,Bell's Palsy,G5
+1425,1425,Bone Diseases,G5
+1426,1426,Bursitis,G5
+1427,1427,Cartilage Diseases,G5
+1428,1428,Central Nervous System Diseases,G5
+1429,1429,Chronic Fatigue Syndrome,G5
+1430,1430,Chronobiology Disorders,G5
+1431,1431,Circadian Rhythm Sleep Disorders,G5
+1432,1432,Connective Tissue Diseases,G5
+1433,1433,De Quervain Disease,G5
+1434,1434,Dysautonomia,G5
+1435,1435,Fibromyalgia,G5
+1436,1436,Guillain-Barre Syndrome,G5
+1437,1437,Hemiplegia,G5
+1438,1438,Jet Lag Syndrome,G5
+1439,1439,Joint Diseases,G5
+1440,1440,Lou Gehrig Disease,G5
+1441,1441,Miller Fisher Syndrome,G5
+1442,1442,Mitochondrial Myopathies,G5
+1443,1443,MS,G5
+1444,1444,Multiple Sclerosis,G5
+1445,1445,Muscular Diseases,G5
+1446,1446,Muscular Dystrophy,G5
+1447,1447,Muscle Diseases,G5
+1448,1448,Musculoskeletal & Connective Tissue Diseases,G5
+1449,1449,Musculoskeletal Diseases,G5
+1450,1450,Myasthenia Gravis,G5
+1451,1451,Myoclonus,G5
+1452,1452,Myositis,G5
+1453,1453,Nervous System Diseases,G5
+1454,1454,Nervous System Trauma,G5
+1455,1455,Neurological Diseases,G5
+1456,1456,Osteoporosis,G5
+1457,1457,Parkinsons Disease,G5
+1458,1458,Rheumatic Diseases,G5
+1459,1459,Scheuermann Disease,G5
+1460,1460,Scoliosis,G5
+1461,1461,Spinal Cord Injury,G5
+1462,1462,Spinal Diseases,G5
+1463,1463,Spinal Disorders,G5
+1464,1464,Spondylitis,G5
+1465,1465,Spondylolisthesis,G5
+1466,1466,Tendinitis,G5
+1467,1467,Tennis Elbow,G5
+1468,1468,Tenosynovitis,G5
+1469,1469,Tietzes Syndrome,G5
+1470,1470,Tuberous Sclerosis,G5
+1471,1471,Ankylosing Spondylitis,G5
+1472,1472,Chondrocalcinosis,G5
+1473,1473,Gout,G5
+1474,1474,Neurotrophic Arthritis,G5
+1475,1475,Osteoathritis,G5
+1476,1476,Palindromic Arthritis,G5
+1477,1477,Psoriatic Arthritis,G5
+1478,1478,Reiter Disease,G5
+1479,1479,Rheumatism,G5
+1480,1480,Rheumatoid Arthritis,G5
+1481,1481,Spondylarthritis,G5
+1482,1482,Grand Mal,G5
+1483,1483,Haut Mal,G5
+1484,1484,Petit Mal,G5
+1485,1485,Allergies,G6
+1486,1486,Anaphylaxis,G6
+1487,1487,Angioneurotic Edema,G6
+1488,1488,Drug Hypersensitivity,G6
+1489,1489,Environmental Illness,G6
+1490,1490,Food Allergies,G6
+1491,1491,Food Hypersensitivity,G6
+1492,1492,Hay Fever,G6
+1493,1493,Hives,G6
+1494,1494,Hypersensitivity,G6
+1495,1495,Latex Hypersensitivity,G6
+1496,1496,Multiple Chemical Sensitivities,G6
+1497,1497,Rhinitis,G6
+1498,1498,Sick Building Syndrome,G6
+1499,1499,Urticaria,G6
+1500,1500,Wissler Syndrome,G6
+1501,1501,Bronchial Asthma,G6
+1502,1502,Status Asthmaticus,G6
+1503,1503,Abdominal Pain,G7
+1504,1504,Biliary Tract Diseases,G7
+1505,1505,Colitis,G7
+1506,1506,Crohns Disease,G7
+1507,1507,Curlings Ulcer,G7
+1508,1508,Diarrhea,G7
+1509,1509,Digestive System Diseases,G7
+1510,1510,Diverticulosis,G7
+1511,1511,Duodenal Ulcer,G7
+1512,1512,Esophageal Diseases,G7
+1513,1513,Gallbladder Diseases,G7
+1514,1514,Gastroenteritis,G7
+1515,1515,Gastrointestinal Diseases,G7
+1516,1516,Hernia,G7
+1517,1517,Ileitis,G7
+1518,1518,Intestinal Diseases,G7
+1519,1519,Jaundice,G7
+1520,1520,Mesenteric Vascular Occlusion,G7
+1521,1521,Pancreatic Diseases,G7
+1522,1522,Pancreatic Diseases,G7
+1523,1523,Peptic Ulcer,G7
+1524,1524,Peritoneal Diseases,G7
+1525,1525,Protein-Losing Enteropathies,G7
+1526,1526,Stomach Diseases,G7
+1527,1527,Stomach Ulcer,G7
+1528,1528,Visceroptosis,G7
+1529,1529,Achlorhydria,G8
+1530,1530,Achylia Gastrica,G8
+1531,1531,Acne,G8
+1532,1532,Acneiform Eruptions,G8
+1533,1533,Acquired Language Disorders,G8
+1534,1534,Addisons Disease,G8
+1535,1535,Adiposis Dolorosa,G8
+1536,1536,Agent Orange,G8
+1537,1537,Agraphia,G8
+1538,1538,Alcoholism,G8
+1539,1539,Alopecia,G8
+1540,1540,Antitrypsin Deficiency,G8
+1541,1541,Amebiasis,G8
+1542,1542,Amyloidosis,G8
+1543,1543,Anemia,G8
+1544,1544,Anomia,G8
+1545,1545,Aphasia,G8
+1546,1546,Articulation Disorders,G8
+1547,1547,Avitaminosis,G8
+1548,1548,Besnier-Boeck Disease,G8
+1549,1549,Blind Loop Syndrome,G8
+1550,1550,Boecks Sarcoid Disease,G8
+1551,1551,Bovine Spongiform Encephalopathy (BSE),G8
+1552,1552,Breast Diseases,G8
+1553,1553,Burns,G8
+1554,1554,Calcium Metabolism Disorders,G8
+1555,1555,Carpal Tunnel Syndrome,G8
+1556,1556,Cavernous Hemangioma,G8
+1557,1557,Celiac Disease,G8
+1558,1558,Chiari-Frommel Syndrome,G8
+1559,1559,Child Nutrition Disorders,G8
+1560,1560,Chlamydia,G8
+1561,1561,Cholera,G8
+1562,1562,Coagulation Defects,G8
+1563,1563,Communications Disorders,G8
+1564,1564,Cretinism,G8
+1565,1565,Creutzfeldt-Jakob Disease,G8
+1566,1566,Cryoglobulinemia,G8
+1567,1567,Cushing Syndrome,G8
+1568,1568,Deficiency Diseases,G8
+1569,1569,Dengue Fever,G8
+1570,1570,Dermatitis,G8
+1571,1571,Dermatomyositis,G8
+1572,1572,Dermatoses,G8
+1573,1573,Desert Storm Syndrome,G8
+1574,1574,Diabetes,G8
+1575,1575,Dwarfism,G8
+1576,1576,Dysarthria,G8
+1577,1577,Dyslexia,G8
+1578,1578,Dystrophic Epidermolysis Bullosa,G8
+1579,1579,Ebola Virus Hemorrhagic Fever,G8
+1580,1580,Echolalia,G8
+1581,1581,Eczema,G8
+1582,1582,Ehlers-Danlos Syndrome,G8
+1583,1583,Encephalitis,G8
+1584,1584,Endocrine Diseases,G8
+1585,1585,Epstein-Barr Virus,G8
+1586,1586,Erythema,G8
+1587,1587,Euthyroid Sick Syndromes,G8
+1588,1588,Exanthema,G8
+1589,1589,Expressive Language Disorder,G8
+1590,1590,Fifth Disease,G8
+1591,1591,Food Poisoning,G8
+1592,1592,Foodborne Infections,G8
+1593,1593,Foot Diseases,G8
+1594,1594,Frommels Disease,G8
+1595,1595,Galactorrhea,G8
+1596,1596,Genital Herpes,G8
+1597,1597,Genital Warts,G8
+1598,1598,Glucose Intolerance,G8
+1599,1599,Goiter,G8
+1600,1600,Gonadal Disorders,G8
+1601,1601,Gonorrhea,G8
+1602,1602,Graves Disease,G8
+1603,1603,Gynecomastia,G8
+1604,1604,Hair Diseases,G8
+1605,1605,Head Lice,G8
+1606,1606,Hemic Disease,G8
+1607,1607,Hemorrhagic Fevers,G8
+1608,1608,Hirsutism,G8
+1609,1609,Histiocytosis,G8
+1610,1610,Hookworm Infection,G8
+1611,1611,Hyperammonemia,G8
+1612,1612,Hyperbilirubinemia,G8
+1613,1613,Hyperglobulinemic Purpura,G8
+1614,1614,Hyperglycemia,G8
+1615,1615,Hyperinsulinemia,G8
+1616,1616,Hyperinsulinemia,G8
+1617,1617,Hyperinsulinism,G8
+1618,1618,Hyperlipidemia,G8
+1619,1619,Hyperoxaluria,G8
+1620,1620,Hyperparathyroidism,G8
+1621,1621,Hyperprolactinemia,G8
+1622,1622,Hyperthyroidism,G8
+1623,1623,Hyperthyroxinemia,G8
+1624,1624,Hypervitaminosis A,G8
+1625,1625,Hypochlorhydria,G8
+1626,1626,Hypoglycemia,G8
+1627,1627,Hypoparathyroidism,G8
+1628,1628,Hypothyroidism,G8
+1629,1629,Immunological Diseases,G8
+1630,1630,Immunoparasitology,G8
+1631,1631,Infectious Diseases,G8
+1632,1632,Injuries,G8
+1633,1633,Intertrigo,G8
+1634,1634,Iron Metabolism Disorders,G8
+1635,1635,Iron Overload,G8
+1636,1636,Iron-Deficiency Anemia,G8
+1637,1637,Juvenile Xanthogranuloma,G8
+1638,1638,Keratoacanthoma,G8
+1639,1639,Keratosis,G8
+1640,1640,Kimura Disease,G8
+1641,1641,Kussmaul Aphasia,G8
+1642,1642,Lactation Disorders,G8
+1643,1643,Lactose Intolerance,G8
+1644,1644,Language Disorders,G8
+1645,1645,Learning Disabilities,G8
+1646,1646,Lipodystrophy,G8
+1647,1647,Lupus,G8
+1648,1648,Lyme Disease,G8
+1649,1649,Lymphatic Diseases,G8
+1650,1650,Mad Cow Disease,G8
+1651,1651,Magnesium Deficiency,G8
+1652,1652,Malabsorption Syndromes,G8
+1653,1653,Malaria,G8
+1654,1654,Marchiafava-Micheli Syndrome,G8
+1655,1655,Mast-Cell Disease,G8
+1656,1656,Mastitis,G8
+1657,1657,Mastocytosis,G8
+1658,1658,Meningitis,G8
+1659,1659,Metabolic Diseases,G8
+1660,1660,Metabolic Skin Diseases,G8
+1661,1661,Metabolic Syndrome X,G8
+1662,1662,Mitochondrial Diseases,G8
+1663,1663,Mononucleosis,G8
+1664,1664,Mutism,G8
+1665,1665,Myxedema,G8
+1666,1666,Nail Diseases,G8
+1667,1667,Narcolepsy,G8
+1668,1668,Necrobiosis Lipoidica,G8
+1669,1669,Necrobiotic Disorders,G8
+1670,1670,Neurodermatitis,G8
+1671,1671,Nutrition Disorders,G8
+1672,1672,Nutritional Diseases,G8
+1673,1673,Obesity,G8
+1674,1674,Ochronosis,G8
+1675,1675,Orchitis,G8
+1676,1676,Orphan Diseases,G8
+1677,1677,Owrens Disease,G8
+1678,1678,Panniculitis,G8
+1679,1679,Papulosquamous Skin Diseases,G8
+1680,1680,Parasitology,G8
+1681,1681,Parasitic Diseases,G8
+1682,1682,Parathyroid Diseases,G8
+1683,1683,Persian Gulf Syndrome,G8
+1684,1684,Phosphorus Metabolism Disorders,G8
+1685,1685,Photosensitivity Disorders,G8
+1686,1686,Pickwickian Syndrome,G8
+1687,1687,Pigmentation Disorders,G8
+1688,1688,Pituitary Diseases,G8
+1689,1689,Pityriasis Lichenoides,G8
+1690,1690,Pityriasis Rosea,G8
+1691,1691,Pityriasis Rubra Pilaris,G8
+1692,1692,Plague,G8
+1693,1693,Porphyria,G8
+1694,1694,Potassium Deficiency,G8
+1695,1695,Prader-Willi Syndrome,G8
+1696,1696,Protein Deficiency,G8
+1697,1697,Prurigo,G8
+1698,1698,Pruritus,G8
+1699,1699,Rare Diseases,G8
+1700,1700,Refetoff Syndrome,G8
+1701,1701,Refetoff-DeWind-DeGroot Syndrome,G8
+1702,1702,Reyes Syndrome,G8
+1703,1703,Rocky Mountain Spotted Fever,G8
+1704,1704,Roundworm,G8
+1705,1705,Sarcoidosis,G8
+1706,1706,Scabies,G8
+1707,1707,Schamberg Disease,G8
+1708,1708,Schaumann Disease,G8
+1709,1709,Schistosomiasis,G8
+1710,1710,Schoenlein-Henoch Purpura,G8
+1711,1711,Scleredema,G8
+1712,1712,Scurvy,G8
+1713,1713,Sexually Transmitted Diseases,G8
+1714,1714,Short Bowel Syndrome,G8
+1715,1715,Sjogrens Syndrome,G8
+1716,1716,Skin Diseases,G8
+1717,1717,Sleeping Sickness,G8
+1718,1718,Speech Disorders,G8
+1719,1719,Stammering,G8
+1720,1720,Stuart-Prower Disease,G8
+1721,1721,Stuttering,G8
+1722,1722,Syphilis,G8
+1723,1723,TB,G8
+1724,1724,Testicular Diseases,G8
+1725,1725,Thymus Hyperplasia,G8
+1726,1726,Thyroid Diseases,G8
+1727,1727,Thyroid Hormone Resistance Syndrome,G8
+1728,1728,Thyroiditis,G8
+1729,1729,Thyrotoxicosis,G8
+1730,1730,Tick-borne Diseases,G8
+1731,1731,Trauma,G8
+1732,1732,Trichomoniasis,G8
+1733,1733,Tropical Diseases,G8
+1734,1734,Tropical Sprue,G8
+1735,1735,Typhoid Fever,G8
+1736,1736,Varicocele,G8
+1737,1737,Venereal Diseases,G8
+1738,1738,Virilism,G8
+1739,1739,Vitamin Deficiency,G8
+1740,1740,Vitiligo,G8
+1741,1741,Willebrand Disease,G8
+1742,1742,Waldenstrom Macroglobulinemia,G8
+1743,1743,Warts,G8
+1744,1744,Wasting Disease,G8
+1745,1745,Wasting Syndrome,G8
+1746,1746,Water-Electrolyte Imbalance,G8
+1747,1747,Waterhouse-Friderichsen Syndrome,G8
+1748,1748,West Nile Encephalitis,G8
+1749,1749,West Nile Virus,G8
+1750,1750,Whipples Disease,G8
+1751,1751,Wounds,G8
+1752,1752,Xanthomatosis,G8
+1753,1753,Yellow Fever,G8
+1754,1754,Acquired Immunodeficiency Syndrome,G8
+1755,1755,HIV,G8
+1756,1756,HIV/AIDS,G8
+1757,1757,HIV Related Diseases,G8
+1758,1758,Human Immunodeficiency Virus,G8
+1759,1759,Aspergers Disorder,G8
+1760,1760,Autistic Disorder,G8
+1761,1761,Childhood Disintegration Disorder,G8
+1762,1762,Pervasive Developmental Disorder,G8
+1763,1763,Anesthesiology,G9
+1764,1764,Cardiology,G9
+1765,1765,Cardiovascular Medicine,G9
+1766,1766,Chiropractic,G9
+1767,1767,Dermatology,G9
+1768,1768,Emergency Medicine,G9
+1769,1769,Endocrinology,G9
+1770,1770,Family Practice,G9
+1771,1771,Forensic Medicine,G9
+1772,1772,Gastroenterology,G9
+1773,1773,Gynecologists,G9
+1774,1774,Hematology,G9
+1775,1775,Immunology,G9
+1776,1776,Infectious Disease,G9
+1777,1777,Internal Medicine,G9
+1778,1778,Mortuary Science,G9
+1779,1779,Nephrology,G9
+1780,1780,Nuclear Medicine,G9
+1781,1781,OB/GYN,G9
+1782,1782,Obstetric/Gynecology,G9
+1783,1783,Occupational Medicine,G9
+1784,1784,Oncology,G9
+1785,1785,Ophthalmology,G9
+1786,1786,Optometry,G9
+1787,1787,Osteopathic Medicine,G9
+1788,1788,Otolaryngology,G9
+1789,1789,Pathology,G9
+1790,1790,Phlebology,G9
+1791,1791,Physical Medicine,G9
+1792,1792,Podiatry,G9
+1793,1793,Preventive Medicine,G9
+1794,1794,Psychiatry,G9
+1795,1795,Pulmonary Disease Specialists,G9
+1796,1796,Radiology,G9
+1797,1797,Rehabilitative Medicine,G9
+1798,1798,Reproductive Medicine,G9
+1799,1799,Rheumatology,G9
+1800,1800,Urology,G9
+1801,1801,Venereology,G9
+1802,1802,Biomedical Engineering,G9
+1803,1803,Biomedicine,G9
+1804,1804,Clinical Engineering,G9
+1805,1805,Rehabilitation Engineering,G9
+1806,1806,Neurology,G9
+1807,1807,Neurosciences,G9
+1808,1808,Neonatology,G9
+1809,1809,Perinatology,G9
+1810,1810,"Colon & Rectal Surgery, Colorectal Surgery",G9
+1811,1811,Cosmetic Surgery,G9
+1812,1812,Neurological Surgery,G9
+1813,1813,Neurosurgery,G9
+1814,1814,Orthopedics,G9
+1815,1815,Orthopedic Surgery,G9
+1816,1816,Plastic Surgery,G9
+1817,1817,Reconstructive Surgery,G9
+1818,1818,Thoracic Surgery,G9
+1819,1819,Traumatology,G9
+1820,1820,Anti-Crime Patrols,I2
+1821,1821,Arson Prevention,I2
+1822,1822,Block Parents,I2
+1823,1823,Block Watch,I2
+1824,1824,Child Finger Television,I2
+1825,1825,Citizen Crime Reporting,I2
+1826,1826,Citizen Patrols,I2
+1827,1827,Citizens Crime Watch,I2
+1828,1828,Civilian Crime Patrols,I2
+1829,1829,Community Watch,I2
+1830,1830,Crime Reporting,I2
+1831,1831,Crime Prevention,I2
+1832,1832,Crime Watch,I2
+1833,1833,Crime Stoppers,I2
+1834,1834,Crimebusters,I2
+1835,1835,Crimestoppers,I2
+1836,1836,Crimewatch,I2
+1837,1837,Dangerous Weapons Regulation and Control,I2
+1838,1838,Firearms Control,I2
+1839,1839,Fraud Reporting,I2
+1840,1840,Gun Control,I2
+1841,1841,Hate Crime Prevention,I2
+1842,1842,Home Alert,I2
+1843,1843,Kidnapped Children,I2
+1844,1844,Missing Children,I2
+1845,1845,Missing Persons,I2
+1846,1846,Neighborhood Watch,I2
+1847,1847,Online Crime Prevention,I2
+1848,1848,Self-Defense,I2
+1849,1849,Tip Lines,I2
+1850,1850,Violence Prevention,I2
+1851,1851,Gang Related,I2
+1852,1852,Juvenile Delinquency Prevention,I2
+1853,1853,SADD,I2
+1854,1854,Students Against Destructive Decisions,I2
+1855,1855,Students Against Drunk Driving,I2
+1856,1856,Youth Crime Prevention,I2
+1857,1857,Detention of Alleged Law Violators,I3
+1858,1858,Detention of Law Violators,I3
+1859,1859,Jails,I3
+1860,1860,Penitentiaries,I3
+1861,1861,Prisons,I3
+1862,1862,Half-Way Houses for Ex-Offenders,I3
+1863,1863,Half-Way Houses for Offenders,I3
+1864,1864,Prerelease Centers,I3
+1865,1865,Transitional Care for Ex-Offenders,I3
+1866,1866,Transitional Care for Offenders,I3
+1867,1867,Work Release Centers,I3
+1868,1868,Bail Assistance,I4
+1869,1869,Correctional Restitution,I4
+1870,1870,Court Referral,I4
+1871,1871,Day Reporting Centers,I4
+1872,1872,Electronic Monitoring of Detention,I4
+1873,1873,Ex-Offender Counseling,I4
+1874,1874,Ex-Offender Reentry,I4
+1875,1875,Juvenile Parole,I4
+1876,1876,Parole,I4
+1877,1877,Pre-Release,I4
+1878,1878,Pretrial Electronic Monitoring,I4
+1879,1879,Pretrial Release,I4
+1880,1880,Probation,I4
+1881,1881,Restorative Justice,I4
+1882,1882,Teen Court,I4
+1883,1883,Victim/Offender Reconciliation,I4
+1884,1884,VORP,I4
+1885,1885,Work Furlough,I4
+1886,1886,Work Release,I4
+1887,1887,Youth Court,I4
+1888,1888,Correctional Education,I4
+1889,1889,Family Visitation,I4
+1890,1890,Family Visitation Support,I4
+1891,1891,Inmate Counseling,I4
+1892,1892,Inmate Pre-Release Reentry,I4
+1893,1893,Inmate Support,I4
+1894,1894,Inmate Visitation,I4
+1895,1895,Inmate Visiting Transportation,I4
+1896,1896,Jail Visitation,I4
+1897,1897,Offender Advocates,I4
+1898,1898,Pregnant/Parenting Inmate Support,I4
+1899,1899,Prison Libraries,I4
+1900,1900,Prison Ministries,I4
+1901,1901,Prison Visitation,I4
+1902,1902,Prisoner Locator,I4
+1903,1903,Volunteer Inmate Visiting,I4
+1904,1904,Volunteer Jail Visiting,I4
+1905,1905,Adult Diversion,I4
+1906,1906,Alternatives to Incarceration,I4
+1907,1907,Community Corrections,I4
+1908,1908,Community-Based Correctional Facility,I4
+1909,1909,Day Treatment for Offenders,I4
+1910,1910,Diversion,I4
+1911,1911,Group Homes for Offenders,I4
+1912,1912,Home Confinement,I4
+1913,1913,Housing,I4
+1914,1914,Intensive Supervision of Offenders,I4
+1915,1915,Juvenile Alternative Sentencing,I4
+1916,1916,Juvenile Detention Facilities,I4
+1917,1917,Juvenile Detention Homes,I4
+1918,1918,Juvenile Diversion,I4
+1919,1919,Juvenile Justice System,I4
+1920,1920,Prison Alternatives,I4
+1921,1921,Prison Boot Camps,I4
+1922,1922,Reformatories,I4
+1923,1923,Residential Restitution Centers,I4
+1924,1924,Residential Treatment Facilities for Offenders,I4
+1925,1925,Weekend Sentences,I4
+1926,1926,Administration of Justice,I5
+1927,1927,Alternatives to Litigation,I5
+1928,1928,Bail Deviation,I5
+1929,1929,Court Administration,I5
+1930,1930,Court Orientation for Offenders,I5
+1931,1931,Court Reform,I5
+1932,1932,Courts,I5
+1933,1933,Criminal Justice Systems,I5
+1934,1934,Expert Witnesses,I5
+1935,1935,Penal Reform,I5
+1936,1936,Prison Reform,I5
+1937,1937,Alternative Dispute Resolution,I5
+1938,1938,Alternative to Litigation,I5
+1939,1939,Arbitration,I5
+1940,1940,Conflict Resolution,I5
+1941,1941,Dispute Resolution,I5
+1942,1942,Dissolution Assistance,I5
+1943,1943,Labor Mediation,I5
+1944,1944,Landlord/Tenant Mediation,I5
+1945,1945,Mediation,I5
+1946,1946,Mini-Trials,I5
+1947,1947,Fraternal Order of Police,I6
+1948,1948,K-9 Police team,I6
+1949,1949,Law Enforcement Agencies,I6
+1950,1950,Police Academies,I6
+1951,1951,Police Auxiliaries,I6
+1952,1952,Police Benefit Associations,I6
+1953,1953,Police Benevolent Associations,I6
+1954,1954,Police Chaplains,I6
+1955,1955,Police Departments,I6
+1956,1956,Police Protective Associations,I6
+1957,1957,Police Reserves,I6
+1958,1958,Police Training,I6
+1959,1959,Sheriffs Associations,I6
+1960,1960,Sheriff's Posse,I6
+1961,1961,Sheriffs Posse,I6
+1962,1962,Abuse of the Elderly,I7
+1963,1963,Abuse Prevention,I7
+1964,1964,Crimes Against the Elderly,I7
+1965,1965,Domestic Violence,I7
+1966,1966,Elder Abuse,I7
+1967,1967,Granny Bashing,I7
+1968,1968,Granny Dumping,I7
+1969,1969,King Lear Syndrome,I7
+1970,1970,Violence in the Family,I7
+1971,1971,Violence Prevention,I7
+1972,1972,Violent Families,I7
+1973,1973,Battered Husbands,I7
+1974,1974,Battered Wives,I7
+1975,1975,Conjugal Crime Prevention,I7
+1976,1976,Domestic Abuse Prevention,I7
+1977,1977,Domestic Rape Prevention,I7
+1978,1978,Domestic Violence,I7
+1979,1979,Husband Abuse Prevention,I7
+1980,1980,Marital Rape Prevention,I7
+1981,1981,Spousal Abuse Prevention,I7
+1982,1982,Wife Abuse Prevention,I7
+1983,1983,Abuse of Children,I7
+1984,1984,Abused Children,I7
+1985,1985,Abusive Parents,I7
+1986,1986,Battered Children,I7
+1987,1987,CAC,I7
+1988,1988,Child Abuse Hotlines,I7
+1989,1989,Child Abuse Prevention,I7
+1990,1990,Child Neglect,I7
+1991,1991,Child Protection,I7
+1992,1992,Cruelty to Children,I7
+1993,1993,Domestic Violence,I7
+1994,1994,Incest,I7
+1995,1995,Infanticide,I7
+1996,1996,Parents Anonymous,I7
+1997,1997,Prevention of Child Mistreatment,I7
+1998,1998,Shaken Baby Syndrome,I7
+1999,1999,Child Molestation Prevention,I7
+2000,2000,Dating Violence Prevention,I7
+2001,2001,Domestic Violence,I7
+2002,2002,Rape Prevention,I7
+2003,2003,Sexual Assault Prevention,I7
+2004,2004,Sex Offender Registration,I7
+2005,2005,Court-appointed Counsel,I8
+2006,2006,Discrimination Assistance,I8
+2007,2007,Equal Employment Opportunity,I8
+2008,2008,Fair Housing,I8
+2009,2009,Fair Housing Counseling,I8
+2010,2010,Guardians ad Litem,I8
+2011,2011,Guardianship,I8
+2012,2012,Housing Discrimination Assistance,I8
+2013,2013,Housing Discrimination Counseling,I8
+2014,2014,Landlord/Tenant Law,I8
+2015,2015,Legal Aid,I8
+2016,2016,Legal Aid to the Poor,I8
+2017,2017,Legal Counseling,I8
+2018,2018,Legal Representation,I8
+2019,2019,Legal Services for Indigents,I8
+2020,2020,Pro Bono Cases,I8
+2021,2021,Public Defenders,I8
+2022,2022,Class Action Lawsuits,I8
+2023,2023,Public Interest Law,I8
+2024,2024,Public Interest Litigation,I8
+2025,2025,Bonding for Employment,J2
+2026,2026,Business Attire,J2
+2027,2027,Dislocated Workers Training,J2
+2028,2028,Displaced Homemakers,J2
+2029,2029,Dress for Success,J2
+2030,2030,Employment Acquisition,J2
+2031,2031,Employment Agencies,J2
+2032,2032,Employment Placement Agencies,J2
+2033,2033,Employment Preparation,J2
+2034,2034,Employment Procurement,J2
+2035,2035,Employment Referrals,J2
+2036,2036,Employment Resource Center,J2
+2037,2037,Employment Retraining,J2
+2038,2038,Employment Screening/Finding,J2
+2039,2039,Equal Employment Opportunity,J2
+2040,2040,Foreign Employment,J2
+2041,2041,Job Banks,J2
+2042,2042,Job Clubs,J2
+2043,2043,Job Counseling and Placement,J2
+2044,2044,Job Fairs,J2
+2045,2045,Job Information Clearinghouses,J2
+2046,2046,Job Information Lines,J2
+2047,2047,Job Interview Training,J2
+2048,2048,Job Listings,J2
+2049,2049,Job Placement Assistance,J2
+2050,2050,Job Readiness,J2
+2051,2051,Job Referrals,J2
+2052,2052,Job Search Assistance,J2
+2053,2053,Job Search Resource Center,J2
+2054,2054,Occupational Retraining,J2
+2055,2055,Occupational Training for Dislocated Workers,J2
+2056,2056,OICs,J2
+2057,2057,Opportunities Industrialization Centers,J2
+2058,2058,Post Employment Assistance,J2
+2059,2059,Pre-Job Guidance,J2
+2060,2060,Reentry Training,J2
+2061,2061,Resume Preparation Assistance,J2
+2062,2062,Retraining,J2
+2063,2063,SCSEP,J2
+2064,2064,Senior Citizen Employment,J2
+2065,2065,Senior Community Service Employment,J2
+2066,2066,SER-Jobs for Progress,J2
+2067,2067,Title V,J2
+2068,2068,Work Reentry Training,J2
+2069,2069,Assessment Testing,J2
+2070,2070,Career Awareness,J2
+2071,2071,Career Counseling,J2
+2072,2072,Career Development,J2
+2073,2073,Career Goals,J2
+2074,2074,Career Guidance,J2
+2075,2075,Career Planning,J2
+2076,2076,Employment Aptitude Testing,J2
+2077,2077,Employment Counseling,J2
+2078,2078,Employment Interest Measures,J2
+2079,2079,Interest Inventories,J2
+2080,2080,Job Counseling,J2
+2081,2081,Vocational Assessment,J2
+2082,2082,Vocational Counseling,J2
+2083,2083,Vocational Guidance,J2
+2084,2084,Vocational Information,J2
+2085,2085,Vocational Testing,J2
+2086,2086,Apprenticeship & Training Trusts,J2
+2087,2087,Apprenticeships,J2
+2088,2088,Community Work & Training,J2
+2089,2089,Employment Training,J2
+2090,2090,Field Experience,J2
+2091,2091,Industrial Training,J2
+2092,2092,In-service Training,J2
+2093,2093,Internships,J2
+2094,2094,Job Corps,J2
+2095,2095,Job Training,J2
+2096,2096,Jobs Training Partnership Act,J2
+2097,2097,JTPA,J2
+2098,2098,JTPA Summer,J2
+2099,2099,Manpower Training,J2
+2100,2100,Occupational Training,J2
+2101,2101,On-the-Job Training,J2
+2102,2102,Personnel Training,J2
+2103,2103,Practice Teaching,J2
+2104,2104,Practicums,J2
+2105,2105,Public Employment & Training,J2
+2106,2106,Residency,J2
+2107,2107,School to Career,J2
+2108,2108,School to Work,J2
+2109,2109,Senior Community Service Employment,J2
+2110,2110,Student Field Work,J2
+2111,2111,Summer Youth Employment,J2
+2112,2112,Title IIA,J2
+2113,2113,Title IIB,J2
+2114,2114,Title IIC,J2
+2115,2115,Welfare to Work,J2
+2116,2116,WIA,J2
+2117,2117,Work & Training,J2
+2118,2118,Work Experience,J2
+2119,2119,Workfare,J2
+2120,2120,Workforce Development,J2
+2121,2121,Workforce Investment Act,J2
+2122,2122,Youth Corps,J2
+2123,2123,Youth Job Training & Employment,J2
+2124,2124,Employment for Disabled Persons,J3
+2125,2125,Employment for the Homebound,J3
+2126,2126,Homebound Employment,J3
+2127,2127,Housebound Employment,J3
+2128,2128,Job Coach,J3
+2129,2129,On-the-Job Coaching,J3
+2130,2130,Supported Employment,J3
+2131,2131,Work Adjustment Training,J3
+2132,2132,Remunerative Sheltered Employment,J3
+2133,2133,Sheltered Employment,J3
+2134,2134,Sheltered Remunerative Employment,J3
+2135,2135,Sheltered Work Activity Centers,J3
+2136,2136,Sheltered Workshops,J3
+2137,2137,Baby Food Suppliers,K3
+2138,2138,Commodity Distribution,K3
+2139,2139,Community Food Gardening,K3
+2140,2140,Cooperative Food Purchasing,K3
+2141,2141,Emergency Food,K3
+2142,2142,Farmers Markets,K3
+2143,2143,Food Aid,K3
+2144,2144,Food Assistance,K3
+2145,2145,Food Baskets,K3
+2146,2146,Food Cooperatives,K3
+2147,2147,Food Co-ops,K3
+2148,2148,Food Distribution,K3
+2149,2149,Food Gleaning,K3
+2150,2150,Food Lines,K3
+2151,2151,Food Vouchers,K3
+2152,2152,Groceries on Wheels,K3
+2153,2153,Grocery Vouchers,K3
+2154,2154,Food Banks,K3
+2155,2155,Food Clearinghouse,K3
+2156,2156,Food Closet,K3
+2157,2157,Food Outlets,K3
+2158,2158,Food Pantries,K3
+2159,2159,Food Supplement Distribution,K3
+2160,2160,Free Food Distribution,K3
+2161,2161,Surplus Commodity Distribution,K3
+2162,2162,Adult Care Feeding,K3
+2163,2163,Child Care Feeding,K3
+2164,2164,Child Nutrition,K3
+2165,2165,Group Meals,K3
+2166,2166,Low-Cost Meals,K3
+2167,2167,Meal Vouchers,K3
+2168,2168,Milk Programs,K3
+2169,2169,Nutrition Sites,K3
+2170,2170,School Breakfasts,K3
+2171,2171,School Lunches,K3
+2172,2172,Summer Food Service,K3
+2173,2173,Senior Nutrition Sites,K3
+2174,2174,Homeless Meals,K3
+2175,2175,Meals for Homeless People,K3
+2176,2176,Soup Kitchens,K3
+2177,2177,Home Delivered Meals,K3
+2178,2178,Home Meals,K3
+2179,2179,Meals on Wheels,K3
+2180,2180,Mobile Meals,K3
+2181,2181,Basic Food Groups,K4
+2182,2182,Healthful Eating,K4
+2183,2183,Nutrition Assistance,K4
+2184,2184,Nutrition Education,K4
+2185,2185,"Special Supplemental Nutrition for Women, Infants and Children",K4
+2186,2186,USDA Food Pyramid,K4
+2187,2187,Vegetarianism.,K4
+2188,2188,WIC,K4
+2189,2189,Family Life,K5
+2190,2190,Homemaking,K5
+2191,2191,Housekeeping,K5
+2192,2192,Accessible Housing,L2
+2193,2193,Affordable Housing,L2
+2194,2194,Barrier-Free Housing,L2
+2195,2195,Habitat for Humanity,L2
+2196,2196,Housing Construction,L2
+2197,2197,Housing Cooperatives,L2
+2198,2198,Housing Development,L2
+2199,2199,Housing Management,L2
+2200,2200,Inexpensive Housing,L2
+2201,2201,Low Cost Housing,L2
+2202,2202,Low Income Housing,L2
+2203,2203,Low to Moderate Cost Housing,L2
+2204,2204,Low to Moderate Income Housing,L2
+2205,2205,Mobile Home Parks,L2
+2206,2206,Moderate Income Housing,L2
+2207,2207,Rooming Houses,L2
+2208,2208,Shared Housing,L2
+2209,2209,Single Room Occupancy,L2
+2210,2210,SRO Hotels,L2
+2211,2211,SRO Housing,L2
+2212,2212,SROs,L2
+2213,2213,Sweat Equity,L2
+2214,2214,Urban Homesteading,L2
+2215,2215,Farm Labor Housing Program,L2
+2216,2216,Federal Leased Housing,L2
+2217,2217,FMHA 515,L2
+2218,2218,Government Subsidized Housing,L2
+2219,2219,Housing and Urban Development Housing,L2
+2220,2220,Housing Authorities,L2
+2221,2221,HUD Housing,L2
+2222,2222,Leased Housing,L2
+2223,2223,Low and Moderate Income Housing,L2
+2224,2224,Low Income and Affordable Housing,L2
+2225,2225,Public Housing,L2
+2226,2226,Rent Subsidies,L2
+2227,2227,RHS Programs,L2
+2228,2228,Rural Housing Service,L2
+2229,2229,Section 202,L2
+2230,2230,Section 231,L2
+2231,2231,Section 236,L2
+2232,2232,Section 8,L2
+2233,2233,"Section 811, Section 221(d)(3)",L2
+2234,2234,Section 221(d)(4)Subsidized Housing,L2
+2235,2235,Subsidized Rental Housing,L2
+2236,2236,Age Restricted Communities,L2
+2237,2237,Agency on Aging Apartments,L2
+2238,2238,Elderly Housing,L2
+2239,2239,HUD 202,L2
+2240,2240,Retirement Communities,L2
+2241,2241,Retirement Homes,L2
+2242,2242,Section 202 Supportive Housing for the Elderly,L2
+2243,2243,Senior Apartment Complexes,L2
+2244,2244,Senior Citizens Housing,L2
+2245,2245,Senior Citizens Retirement Communities,L2
+2246,2246,Senior Congregate Living Facilities,L2
+2247,2247,Senior Retirement Communities,L2
+2248,2248,HUD 811,L2
+2249,2249,Section 811 Supportive Housing for Persons with Disabilities.,L2
+2250,2250,Home Purchase Listings,L3
+2251,2251,Home Rental Listings,L3
+2252,2252,Housing Search and Information,L3
+2253,2253,Relocation Assistance,L3
+2254,2254,Roommate Matching Assistance,L3
+2255,2255,Bridge Housing for Homeless People,L4
+2256,2256,Emergency Housing,L4
+2257,2257,Hostels,L4
+2258,2258,Temporary Accommodations,L4
+2259,2259,Transitional Housing,L4
+2260,2260,Transitional Living Centers,L4
+2261,2261,Transitional Shelter,L4
+2262,2262,Youth Hostels,L4
+2263,2263,Bad Weather Shelters,L4
+2264,2264,Bridge Housing,L4
+2265,2265,Community Shelters,L4
+2266,2266,Mission Housing,L4
+2267,2267,Motel Vouchers,L4
+2268,2268,Urban Campsites,L4
+2269,2269,Overnight Shelters,L4
+2270,2270,Home Purchase Counseling,L8
+2271,2271,Homeowner Purchase Counseling,L8
+2272,2272,Homeownership Counseling,L8
+2273,2273,Homeownership Education,L8
+2274,2274,Homeownership Training,L8
+2275,2275,Household Goods Storage Assistance,L8
+2276,2276,Housing Counsel,L8
+2277,2277,HUD Counseling Services,L8
+2278,2278,Mortgage Counseling,L8
+2279,2279,Moving Assistance,L8
+2280,2280,Bathroom Accessibility Modifications,L8
+2281,2281,Christmas in April,L8
+2282,2282,Energy Conservation Home Improvement,L8
+2283,2283,Energy Conservation Rebates,L8
+2284,2284,Home Barrier Evaluation,L8
+2285,2285,Home Barrier Removal,L8
+2286,2286,Home Energy Conservation,L8
+2287,2287,Home Improvement,L8
+2288,2288,Home Rehabilitation,L8
+2289,2289,Home Repairs,L8
+2290,2290,Insulation,L8
+2291,2291,Kitchen Accessibility Modifications,L8
+2292,2292,Ramp Construction,L8
+2293,2293,Weather Stripping,L8
+2294,2294,Weatherization,L8
+2295,2295,Construction Loans,L8
+2296,2296,Electric Bill Payments Assistance,L8
+2297,2297,Gas Bill Payments Assistance,L8
+2298,2298,Home Purchase Loans,L8
+2299,2299,House Payment Assistance,L8
+2300,2300,Housing Costs,L8
+2301,2301,Housing Down Payment Assistance,L8
+2302,2302,Housing Expense Assistance,L8
+2303,2303,Housing Payments Assistance,L8
+2304,2304,Mortgage Payments Assistance,L8
+2305,2305,Moving Expense Assistance,L8
+2306,2306,Property Tax Relief,L8
+2307,2307,Rent Assistance,L8
+2308,2308,Rental Deposit Assistance,L8
+2309,2309,Security Deposit Assistance,L8
+2310,2310,Telephone Bill Payments Assistance,L8
+2311,2311,Utility Bill Payments Assistance,L8
+2312,2312,Water Bill Payments Assistance,L8
+2313,2313,Relief,M2
+2314,2314,Avalanches,M2
+2315,2315,Brush Fires,M2
+2316,2316,Catastrophe Planning,M2
+2317,2317,Chemical Emergencies,M2
+2318,2318,Civil Defense,M2
+2319,2319,Civil Unrest,M2
+2320,2320,Community Disaster Information,M2
+2321,2321,Debris Removal,M2
+2322,2322,Disaster Alert Systems,M2
+2323,2323,Disaster Donations,M2
+2324,2324,Disaster Hotlines,M2
+2325,2325,Disaster Information,M2
+2326,2326,Disaster Kits,M2
+2327,2327,Disaster Loans,M2
+2328,2328,Disaster Mitigation,M2
+2329,2329,Disaster Planning,M2
+2330,2330,Disaster Preparedness,M2
+2331,2331,Disaster Readiness,M2
+2332,2332,Disaster Recovery Centers,M2
+2333,2333,Disaster Relief/Recovery,M2
+2334,2334,Disaster Relief,M2
+2335,2335,Disaster Response,M2
+2336,2336,Disaster Service Centers,M2
+2337,2337,Disaster Services,M2
+2338,2338,Disaster-Specific Home Repairs,M2
+2339,2339,Disaster Specific Rent Assistance,M2
+2340,2340,Droughts,M2
+2341,2341,Early Warning Alerts,M2
+2342,2342,Earthquakes,M2
+2343,2343,Emergency Communications,M2
+2344,2344,Emergency Dispatch,M2
+2345,2345,Emergency Management,M2
+2346,2346,Emergency Preparedness/Response Training,M2
+2347,2347,Emergency Radio,M2
+2348,2348,Evacuation Plans,M2
+2349,2349,Explosions,M2
+2350,2350,Extreme Heat,M2
+2351,2351,Floods,M2
+2352,2352,Flood Protection and Control,M2
+2353,2353,Forest Fires,M2
+2354,2354,Grass Fires,M2
+2355,2355,Hazardous Materials Emergencies,M2
+2356,2356,Homeland Security,M2
+2357,2357,Hurricanes,M2
+2358,2358,Landslide/Mudslides,M2
+2359,2359,Natural Disasters,M2
+2360,2360,Nuclear Emergencies,M2
+2361,2361,Post-Disaster Clean-Up,M2
+2362,2362,Post-Disaster Housing Assistance,M2
+2363,2363,Post-Disaster Housing Databanks/Referrals,M2
+2364,2364,Post-Disaster Rebuilding Assistance,M2
+2365,2365,Post-Disaster Volunteer Management,M2
+2366,2366,Radiological Emergencies,M2
+2367,2367,Snowstorms,M2
+2368,2368,Terrorism,M2
+2369,2369,Thunderstorms,M2
+2370,2370,Tidal Waves,M2
+2371,2371,Tornados,M2
+2372,2372,Tsunamis,M2
+2373,2373,Volcanic Eruptions,M2
+2374,2374,Wildfires,M2
+2375,2375,Wildland Fires,M2
+2376,2376,Winter Storms,M2
+2377,2377,Woodland Fires,M2
+2378,2378,Air Rescue,M2
+2379,2379,Lifeguards,M2
+2380,2380,Beach Rescue,M2
+2381,2381,Dive Rescue,M2
+2382,2382,K-9 Search and Rescue,M2
+2383,2383,Mountain Rescue,M2
+2384,2384,Rescue Squads,M2
+2385,2385,Sea Rescue,M2
+2386,2386,Search and Rescue,M2
+2387,2387,Search Dogs,M2
+2388,2388,Ski Patrol,M2
+2389,2389,Ski Rescue,M2
+2390,2390,Swift Water Rescue,M2
+2391,2391,Traffic Accident Rescue,M2
+2392,2392,Underwater Search/Rescue/Recovery,M2
+2393,2393,Urban Search and Rescue,M2
+2394,2394,Wilderness Rescue,M2
+2395,2395,Civil Air Patrol ,M2
+2396,2396,Fire Code Inspections,M2
+2397,2397,Fire Companies,M2
+2398,2398,Fire Departments,M2
+2399,2399,Fire Fighting,M2
+2400,2400,Fire Safety Inspections,M2
+2401,2401,Fire Suppression Systems,M2
+2402,2402,Fire Prevention,M2
+2403,2403,Firefighters,M2
+2404,2404,Wildfire Residential Fire Protection Systems,M2
+2405,2405,Art and Music Camps,N2
+2406,2406,Art Camps,N2
+2407,2407,Athletic Camps,N2
+2408,2408,Computer Camps,N2
+2409,2409,Dance Camps,N2
+2410,2410,Day Camps,N2
+2411,2411,Music Camps,N2
+2412,2412,Performning Arts Camps,N2
+2413,2413,Recreational Camps,N2
+2414,2414,Residential Camps,N2
+2415,2415,Special Interest Camps,N2
+2416,2416,Sports Camps,N2
+2417,2417,Summer Camps,N2
+2418,2418,Therapeutic Camps,N2
+2419,2419,Aquatic Centers,N3
+2420,2420,Arenas,N3
+2421,2421,Athletic Facilities,N3
+2422,2422,Equestrian Centers,N3
+2423,2423,Gymnasiums,N3
+2424,2424,Natatoriums,N3
+2425,2425,Physical Fitness Facilities,N3
+2426,2426,Recreation Centers,N3
+2427,2427,Recreational Centers,N3
+2428,2428,Recreation Councils,N3
+2429,2429,Skating Rinks,N3
+2430,2430,Stadiums,N3
+2431,2431,Swimming Pools,N3
+2432,2432,Athletic Fields and Courts,N3
+2433,2433,Beaches,N3
+2434,2434,Bike Trails,N3
+2435,2435,Bridle Trails,N3
+2436,2436,Campgrounds,N3
+2437,2437,Hiking Trails,N3
+2438,2438,Jogging Trails,N3
+2439,2439,National Parks,N3
+2440,2440,Off-Road Vehicle Trails,N3
+2441,2441,Parks,N3
+2442,2442,Picnic Grounds,N3
+2443,2443,Playgrounds,N3
+2444,2444,Public Parks,N3
+2445,2445,Recreational Trails,N3
+2446,2446,Skate Parks,N3
+2447,2447,Ski Areas,N3
+2448,2448,Snowmobile Trails,N3
+2449,2449,State Parks,N3
+2450,2450,Police Athletic Leagues,O2
+2451,2451,Teen Centers,O2
+2452,2452,Teen Clubs,O2
+2453,2453,Youth Centers,O2
+2454,2454,Youth Clubs,O2
+2455,2455,Adult/Child Matching,O3
+2456,2456,Adult/Child Mentoring,O3
+2457,2457,Big Friends,O3
+2458,2458,Foster Grandparents,O3
+2459,2459,Intergenerational Programs,O3
+2460,2460,Big Brothers,O3
+2461,2461,Big Sisters,O3
+2462,2462,Boy Scouts,O4
+2463,2463,Cub Scouts,O4
+2464,2464,Eagle Scouts,O4
+2465,2465,Explorers,O4
+2466,2466,Daisy Girl Scouts,O4
+2467,2467,Brownie Girl Scouts,O4
+2468,2468,Junior Girl Scouts,O4
+2469,2469,Cadette Girl Scouts,O4
+2470,2470,Girl Scouts,O4
+2471,2471,Senior Girl Scouts,O4
+2472,2472,Adventure,O4
+2473,2473,Camp Fire USA,O4
+2474,2474,Discovery,O4
+2475,2475,Horizon,O4
+2476,2476,Starflight,O4
+2477,2477,Afterschool Programs,O5
+2478,2478,After-School Programs,O5
+2479,2479,After School Programs,O5
+2480,2480,Character Development for Youth,O5
+2481,2481,Future Homemakers,O5
+2482,2482,Future Leaders of America,O5
+2483,2483,Hugh OBrian Youth Foundation,O5
+2484,2484,Key Clubs,O5
+2485,2485,Youth Service America,O5
+2486,2486,H Clubs,O5
+2487,2487,Agricultural Leadership Programs for Youth,O5
+2488,2488,Four-H Clubs,O5
+2489,2489,FFA,O5
+2490,2490,Future Farmers of America,O5
+2491,2491,Junior Achievement,O5
+2492,2492,Student Operated Business,O5
+2493,2493,Boys Nation,O5
+2494,2494,Boys State,O5
+2495,2495,Citizenship Programs for Youth,O5
+2496,2496,Girls Nation,O5
+2497,2497,Girls State,O5
+2498,2498,HI-Y Leadership Center,O5
+2499,2499,Kids Voting,O5
+2500,2500,Mock Elections,O5
+2501,2501,Model United Nations Assemblies,O5
+2502,2502,Presidential Classroom,O5
+2503,2503,United States Senate Youth Program,O5
+2504,2504,Youth Citizenship,O5
+2505,2505,Youth in Government,O5
+2506,2506,Youth Republic,O5
+2507,2507,Campus Crusade for Christ,O5
+2508,2508,Catholic Youth Organizations,O5
+2509,2509,Christian Youth Clubs,O5
+2510,2510,Faith-Based Youth,O5
+2511,2511,Liberal Religious Youth,O5
+2512,2512,Youth for Christ,O5
+2513,2513,Catholic Human Services,P2
+2514,2514,Catholic Social Services,P2
+2515,2515,Community Services,P2
+2516,2516,Jewish Human Services,P2
+2517,2517,Lutheran Aid Societies,P2
+2518,2518,Lutheran Social Services,P2
+2519,2519,Multipurpose Human Services,P2
+2520,2520,Protestant Human Services,P2
+2521,2521,Religious Welfare,P2
+2522,2522,Saint Vincent DePaul Society,P2
+2523,2523,United Service Organizations,P2
+2524,2524,United Services,P2
+2525,2525,Community Centers,P2
+2526,2526,Jewish Community Centers,P2
+2527,2527,Neighborhood Centers,P2
+2528,2528,Neighborhood Multipurpose Centers,P2
+2529,2529,Settlement Houses,P2
+2530,2530,Adolescent Pregnancy Prevention,P3
+2531,2531,Adolescent Services,P3
+2532,2532,Child Development Support,P3
+2533,2533,Child Welfare,P3
+2534,2534,Childrens Aid Societies,P3
+2535,2535,Childrens Home Societies,P3
+2536,2536,Childrens Protective Services,P3
+2537,2537,Childrens Services,P3
+2538,2538,Childrens Social Services,P3
+2539,2539,Multipurpose Childrens Services,P3
+2540,2540,Runaway Hotlines,P3
+2541,2541,Runaway Services,P3
+2542,2542,Teen Pregnancy Prevention,P3
+2543,2543,Youth Services,P3
+2544,2544,Adoption Agencies,P3
+2545,2545,Adoptive Family Recruitment,P3
+2546,2546,Adoptive Parent/Child Search,P3
+2547,2547,Adoption Registry,P3
+2548,2548,Birth Child Location,P3
+2549,2549,Biological Parent Location,P3
+2550,2550,Birth Parent Location,P3
+2551,2551,Children,P3
+2552,2552,Court-Appointed Confidential Intermediaries,P3
+2553,2553,Natural Parent Location,P3
+2554,2554,International Adoption,P3
+2555,2555,Special Needs Adoption,P3
+2556,2556,Youth,P3
+2557,2557,Foster Care for Adults with Disabilities,P3
+2558,2558,Foster Care for Children with Disabilities,P3
+2559,2559,Foster Care for Dependent Children,P3
+2560,2560,Foster Home Care,P3
+2561,2561,Foster Home Placement,P3
+2562,2562,Foster Homes,P3
+2563,2563,Foster Parent/Family Recruitment,P3
+2564,2564,Therapeutic Foster Care,P3
+2565,2565,After School Care,P3
+2566,2566,Babysitting,P3
+2567,2567,Before School Care,P3
+2568,2568,Child Care Centers,P3
+2569,2569,Child Care Co-ops,P3
+2570,2570,Child Caregivers,P3
+2571,2571,Childrens Day Care,P3
+2572,2572,Corporate Day Care,P3
+2573,2573,"Day Care, Children",P3
+2574,2574,Drop-In Child Care,P3
+2575,2575,Extended Day Care,P3
+2576,2576,Faith-Based Child Care ,P3
+2577,2577,Family Child Care Homes,P3
+2578,2578,Infant Care Centers,P3
+2579,2579,In-Home Child Care,P3
+2580,2580,Latchkey Child Care ,P3
+2581,2581,Nanny,P3
+2582,2582,Nighttime Child Care,P3
+2583,2583,Sick Child Care,P3
+2584,2584,Child Development Classes,P4
+2585,2585,Companionship Programs,P4
+2586,2586,Co-Parenting Workshops,P4
+2587,2587,Expectant/New Parent Assistance,P4
+2588,2588,Family Life Education,P4
+2589,2589,Family Preservation,P4
+2590,2590,Family Reunification,P4
+2591,2591,Family Strengthening,P4
+2592,2592,Family-Based Services,P4
+2593,2593,Mothers of Multiple Births,P4
+2594,2594,Parent Education,P4
+2595,2595,Parenting Education,P4
+2596,2596,Parenting Skills,P4
+2597,2597,Respite Care,P4
+2598,2598,Parents Without Partners,P4
+2599,2599,Single Parent Agencies,P4
+2600,2600,Single Parents,P4
+2601,2601,Battered Womens Hotlines,P4
+2602,2602,Battered Womens Shelters,P4
+2603,2603,Crisis Nurseries,P4
+2604,2604,Crisis Shelters,P4
+2605,2605,Domestic Violence Shelters,P4
+2606,2606,Family Crisis Shelters,P4
+2607,2607,Family Violence Shelters,P4
+2608,2608,Safe Houses,P4
+2609,2609,Errand Running,P4
+2610,2610,Grocery Delivering,P4
+2611,2611,Homemaker Assistance,P4
+2612,2612,Home Health Aide,P4
+2613,2613,Home Maintenance,P4
+2614,2614,Housekeeping Assistance,P4
+2615,2615,In-Home Assistance,P4
+2616,2616,In-Home Hairdressing,P4
+2617,2617,In-Home Meal Preparation,P4
+2618,2618,Personal Care,P4
+2619,2619,Secretarial Assistance,P4
+2620,2620,"Yard Work
+See also: Home Health Care
+",P4
+2621,2621,Adolescent Parents,P4
+2622,2622,Adolescent Parents Pregnancy Counseling,P4
+2623,2623,Maternity Home Care,P4
+2624,2624,Maternity Homes for Unwed Mothers,P4
+2625,2625,Post Pregnancy Shelter Care,P4
+2626,2626,Teen Parents,P4
+2627,2627,Unwed Pregnant Womens Shelter,P4
+2628,2628,Christian Counseling,P4
+2629,2629,Christian Support Services,P4
+2630,2630,Conciliation Counseling,P4
+2631,2631,Marital Counseling,P4
+2632,2632,Marital Counseling,P4
+2633,2633,Marriage Counseling,P4
+2634,2634,Marriage Encounter,P4
+2635,2635,Pastoral Counseling,P4
+2636,2636,Premarital Counseling,P4
+2637,2637,Religious Counseling,P4
+2638,2638,Spiritual Counseling,P4
+2639,2639,Birthright,P4
+2640,2640,Crisis Pregnancies,P4
+2641,2641,"Crisis Pregnancy Centers, Pregnancy Centers, Pregnancy Care Centers",P4
+2642,2642,"Pregnancy Care Clinics.
+",P4
+2643,2643,Assertiveness Training,P5
+2644,2644,Conflict Resolution Training,P5
+2645,2645,Consciousness-Raising Groups,P5
+2646,2646,Cultural Awareness/Competencies Training,P5
+2647,2647,Death and Dying Workshops,P5
+2648,2648,Disability Awareness,P5
+2649,2649,Emancipation Preparation,P5
+2650,2650,Individual Development,P5
+2651,2651,Information and Referrals,P5
+2652,2652,Interpersonal Communication Training,P5
+2653,2653,Life Skills Training,P5
+2654,2654,Marriage Enrichment,P5
+2655,2655,Meditation,P5
+2656,2656,Personal Enrichment,P5
+2657,2657,Personal Growth ,P5
+2658,2658,Relationship Workshops,P5
+2659,2659,Self-Esteem Workshops,P5
+2660,2660,Self-Help Groups,P5
+2661,2661,Sensitivity Training,P5
+2662,2662,Social Responsibility ,P5
+2663,2663,Social Skills Training,P5
+2664,2664,Stress Management,P5
+2665,2665,Team Building Activities,P5
+2666,2666,Yoga,P5
+2667,2667,Bankruptcy Assistance,P5
+2668,2668,Bill interpretation Assistance,P5
+2669,2669,Credit Counseling,P5
+2670,2670,Credit Denial Assistance,P5
+2671,2671,Credit Rating Assistance,P5
+2672,2672,Debt Consolidation,P5
+2673,2673,Debt Management,P5
+2674,2674,Debt Repayment Counseling,P5
+2675,2675,Debt Liquidation Counseling,P5
+2676,2676,Financial Counseling,P5
+2677,2677,Financial Record Keeping Assistance,P5
+2678,2678,Investment Counseling,P5
+2679,2679,Money Management,P5
+2680,2680,Mortgage Default Assistance,P5
+2681,2681,Personal Finances Administration,P5
+2682,2682,Personal Financial Management Counseling,P5
+2683,2683,Property Lien Assistance,P5
+2684,2684,Protective Payee Services,P5
+2685,2685,Repossession Assistance,P5
+2686,2686,Representative Payee Services,P5
+2687,2687,Tax Assistance,P5
+2688,2688,Taxpayer Assistance,P5
+2689,2689,Tax Payer Assistance,P5
+2690,2690,Bus Passes,P5
+2691,2691,Demand/Response Transportation,P5
+2692,2692,Disability-Related Transportation,P5
+2693,2693,Door-to-Door Transportation,P5
+2694,2694,Handicapped Transportation,P5
+2695,2695,Paratransit,P5
+2696,2696,Senior Rides,P5
+2697,2697,Special Needs Transportation,P5
+2698,2698,Student Transportation,P5
+2699,2699,Transportation Passes,P5
+2700,2700,Transportation Vouchers,P5
+2701,2701,Christmas Assistance,P5
+2702,2702,Christmas Baskets,P5
+2703,2703,Christmas Clearing Bureaus,P5
+2704,2704,Christmas Food Baskets,P5
+2705,2705,Christmas Gifts,P5
+2706,2706,Christmas Toys,P5
+2707,2707,Christmas Trees,P5
+2708,2708,Easter Assistance,P5
+2709,2709,Easter Events,P5
+2710,2710,Easter Food Baskets,P5
+2711,2711,Holiday Assistance,P5
+2712,2712,Holiday Adoption ,P5
+2713,2713,Holiday Cash Grants,P5
+2714,2714,Holiday Donations,P5
+2715,2715,Mothers Day Assistance,P5
+2716,2716,Passover Assistance,P5
+2717,2717,Ramadan Assistance,P5
+2718,2718,Thanksgiving Food Baskets,P5
+2719,2719,Toys for Tots,P5
+2720,2720,Child Care Vouchers,P6
+2721,2721,Clothing Distribution,P6
+2722,2722,Emergency Cash,P6
+2723,2723,Emergency Food Assistance,P6
+2724,2724,Emergency Living Expenses,P6
+2725,2725,Emergency Money,P6
+2726,2726,Household Goods Provision,P6
+2727,2727,Household Goods Vouchers,P6
+2728,2728,Moving Expense Assistance,P6
+2729,2729,Personal Loans,P6
+2730,2730,Return to Point of Origin Assistance,P6
+2731,2731,Short-Term Emergency Assistance,P6
+2732,2732,Short Term Emergency Assistance,P6
+2733,2733,Temporary Financial Aid,P6
+2734,2734,Consulates/Foreign Government Representatives,P6
+2735,2735,Customs Assistance,P6
+2736,2736,Emergency Road Service,P6
+2737,2737,Foreign Currency Exchange,P6
+2738,2738,Foreign Visitor Assistance,P6
+2739,2739,International Travel Advisories,P6
+2740,2740,Tourist Information,P6
+2741,2741,Towing,P6
+2742,2742,Travelers Assistance,P6
+2743,2743,Stranded Motorist Assistance,P6
+2744,2744,Court Appearance Advice,P6
+2745,2745,Court Appearance Guidance,P6
+2746,2746,Court Proceedings Information,P6
+2747,2747,Crime Victims,P6
+2748,2748,Filing Assistance for Crime-Related Expenses,P6
+2749,2749,Filing Assistance for Crime-Related Losses,P6
+2750,2750,Victims,P6
+2751,2751,Escort Services,P6
+2752,2752,Victims Protective Services,P6
+2753,2753,"Custodial, Residential Care Facilities",P7
+2754,2754,Housing,P7
+2755,2755,Respite Care,P7
+2756,2756,Adult Day Care Centers,P7
+2757,2757,Adult Day Health Care,P7
+2758,2758,Adult Development Centers for Persons with Disabilities,P7
+2759,2759,Adult Family Day Care Homes,P7
+2760,2760,Developmentally Disabled Activity Centers,P7
+2761,2761,Developmentally Disabled Day Care,P7
+2762,2762,In-Home Adult Care,P7
+2763,2763,Non-residential Care,P7
+2764,2764,Senior Day Care,P7
+2765,2765,Special Day Care,P7
+2766,2766,Special Non-Residential Day Care,P7
+2767,2767,Group Homes for Adults with Developmental Disabilities,P7
+2768,2768,Group Homes for Adults with Disabilities,P7
+2769,2769,Group Homes for Disabled Adults,P7
+2770,2770,Housing,P7
+2771,2771,Long-Term Group Homes,P7
+2772,2772,Long Term Group Homes,P7
+2773,2773,Residential Care for Individuals with Disabilities,P7
+2774,2774,Residential Care,P7
+2775,2775,Facility-Based Hospice Care,P7
+2776,2776,Hospitals for the Dying,P7
+2777,2777,In-Home Hospice Care,P7
+2778,2778,Institutional Hospice Care,P7
+2779,2779,Palliative Care,P7
+2780,2780,Supportive Care for the Dying,P7
+2781,2781,Terminal Illness Care,P7
+2782,2782,Assisted Living,P7
+2783,2783,Boarding Care Facilities,P7
+2784,2784,CCRCs,P7
+2785,2785,Continuing Care Retirement Communities,P7
+2786,2786,Group Homes for Seniors,P7
+2787,2787,Homes for Aging,P7
+2788,2788,Housing for the Elderly,P7
+2789,2789,Life Care Communities,P7
+2790,2790,Lifecare Communities,P7
+2791,2791,Personal Care Homes,P7
+2792,2792,Residential Care Facilities for the Elderly,P7
+2793,2793,Senior Board & Care,P7
+2794,2794,Senior Foster Care,P7
+2795,2795,Senior Residential Care Homes,P7
+2796,2796,Senior Residential Facilities,P7
+2797,2797,Animal Aides,P8
+2798,2798,Assistive Technologies,P8
+2799,2799,Canine Assistants,P8
+2800,2800,Care Management,P8
+2801,2801,Case Management,P8
+2802,2802,Companion Animals,P8
+2803,2803,Guide Dog Training,P8
+2804,2804,Guide Dogs,P8
+2805,2805,Service Animals,P8
+2806,2806,Service Dogs,P8
+2807,2807,Womens Centers,P8
+2808,2808,Womens Services,P8
+2809,2809,Agency on Aging,P8
+2810,2810,Comprehensive Senior Services,P8
+2811,2811,Independence of the Elderly,P8
+2812,2812,Senior Citizen Centers,P8
+2813,2813,Activities of Daily Living,P8
+2814,2814,Daily Living Instruction,P8
+2815,2815,Day Programs for the Developmentally Disabled,P8
+2816,2816,Developmentally Disabled Activity Centers,P8
+2817,2817,Developmentally Disabled Behavior Management ,P8
+2818,2818,Developmentally Disabled Centers,P8
+2819,2819,Developmentally Disabled Services,P8
+2820,2820,Developmentally Disabled Social/Recreation ,P8
+2821,2821,Drop in Centers for the Developmentally Disabled,P8
+2822,2822,Independent Living Skills Instruction: Mentally Retarded Centers,P8
+2823,2823,Mentally Retarded Services,P8
+2824,2824,Retarded Citizens Associations,P8
+2825,2825,Retarded Citizens Centers,P8
+2826,2826,Retarded Citizens Services,P8
+2827,2827,Self Care,P8
+2828,2828,Citizenship Assistance Centers,P8
+2829,2829,Cultural Orientation,P8
+2830,2830,Cultural Transition Facilitation,P8
+2831,2831,Immigrant Centers,P8
+2832,2832,Immigrant Services,P8
+2833,2833,Immigrant Support,P8
+2834,2834,Interpreters,P8
+2835,2835,Language Interpretations,P8
+2836,2836,Language Translations,P8
+2837,2837,Refugee Resettlement,P8
+2838,2838,Homeless Day Centers,P8
+2839,2839,Homeless Drop-In Centers,P8
+2840,2840,Homeless Persons Centers,P8
+2841,2841,Homeless Persons Services,P8
+2842,2842,Missions,P8
+2843,2843,Shower Facilities/Public Restrooms,P8
+2844,2844,Telephone Facilities,P8
+2845,2845,Temporary Mailing Address,P8
+2846,2846,Audio Books ,P8
+2847,2847,Books on Tape ,P8
+2848,2848,Braille Transcription,P8
+2849,2849,Guide Dogs for the Blind,P8
+2850,2850,Recorded Books ,P8
+2851,2851,Recording for the Blind,P8
+2852,2852,Seeing Eye Dog ,P8
+2853,2853,Talking Books,P8
+2854,2854,American Sign Language Interpretation,P8
+2855,2855,AMESLAM Interpretation,P8
+2856,2856,Deaf Relay Services,P8
+2857,2857,Sign Language Interpretation,P8
+2858,2858,Telecommunication Relay Services,P8
+2859,2859,TTD Linkage,P8
+2860,2860,Discrimination of Specific Groups,R2
+2861,2861,Equal Rights,R2
+2862,2862,Immigrant Rights,R2
+2863,2863,Legal Rights,R2
+2864,2864,Refugee Rights,R2
+2865,2865,African American Rights,R2
+2866,2866,Asian American Rights,R2
+2867,2867,Congress of Racial Equality,R2
+2868,2868,CORE,R2
+2869,2869,Ethnic Groups Rights,R2
+2870,2870,Hispanic Rights,R2
+2871,2871,La Raza,R2
+2872,2872,Latino Rights,R2
+2873,2873,NAACP,R2
+2874,2874,Native American Rights,R2
+2875,2875,Racial Equality,R2
+2876,2876,SCLC,R2
+2877,2877,Southern Christian Leadership Conference,R2
+2878,2878,Disability Rights,R2
+2879,2879,Handicapped Persons Rights,R2
+2880,2880,Handicapped Rights,R2
+2881,2881,Age Discrimination,R2
+2882,2882,Gay Rights,R2
+2883,2883,Homosexual Rights,R2
+2884,2884,Lesbian Rights,R2
+2885,2885,CASA,R2
+2886,2886,Child Advocacy,R2
+2887,2887,Court Appointed Special Advocates,R2
+2888,2888,Diversity Training,R3
+2889,2889,Intergroup Relations,R3
+2890,2890,Multicultural Understanding,R3
+2891,2891,Race Relations,R3
+2892,2892,Election Regulation,R4
+2893,2893,League of Women Voters,R4
+2894,2894,Voter Education,R4
+2895,2895,Voter Participation,R4
+2896,2896,Voter Registration,R4
+2897,2897,Voter Turnout,R4
+2898,2898,Academic Freedom,R6
+2899,2899,Bill of Rights,R6
+2900,2900,Civil Liberties,R6
+2901,2901,Constitutional Rights,R6
+2902,2902,Criminal Rights,R6
+2903,2903,Cyber-Liberties,R6
+2904,2904,Death Penalty Advocacy,R6
+2905,2905,Death Penalty Issues,R6
+2906,2906,Due Process,R6
+2907,2907,Freedom of Association,R6
+2908,2908,Freedom of Information,R6
+2909,2909,Freedom of Religion,R6
+2910,2910,Gun Control Advocacy,R6
+2911,2911,Legal Rights,R6
+2912,2912,Library Censorship,R6
+2913,2913,Political Rights,R6
+2914,2914,Right of Assembly,R6
+2915,2915,Right to Bear Arms,R6
+2916,2916,Right to Privacy,R6
+2917,2917,Abortion Rights,R6
+2918,2918,Pro-Choice Advocacy,R6
+2919,2919,Right to Choose,R6
+2920,2920,Anti-Abortion,R6
+2921,2921,Fetal Rights,R6
+2922,2922,Pro-Life Advocacy,R6
+2923,2923,Anti-Censorship Advocacy,R6
+2924,2924,Censorship,R6
+2925,2925,Cyber-Liberties,R6
+2926,2926,Freedom of Speech,R6
+2927,2927,Free Speech,R6
+2928,2928,Freedom of the Press,R6
+2929,2929,Library Censorship,R6
+2930,2930,Assisted Suicide,R6
+2931,2931,Death with Dignity,R6
+2932,2932,Do Not Resuscitate Orders,R6
+2933,2933,Doctor Assisted Death,R6
+2934,2934,Doctor Assisted Suicide,R6
+2935,2935,Euthanasia,R6
+2936,2936,Hemlock Society,R6
+2937,2937,Living Wills,R6
+2938,2938,Mercy Killings,R6
+2939,2939,Physician Assisted Death,R6
+2940,2940,Physician Assisted Suicide,R6
+2941,2941,Rationale Suicide,R6
+2942,2942,Right to Die,R6
+2943,2943,Air Force,W3
+2944,2944,American Legion,W3
+2945,2945,Armed Forces of the United States,W3
+2946,2946,Army,W3
+2947,2947,Coast Guard,W3
+2948,2948,Marine Corps,W3
+2949,2949,Military Chaplains,W3
+2950,2950,National Guard,W3
+2951,2951,Navy,W3
+2952,2952,Veterans Affairs ,W3
+2953,2953,Veterans of Foreign Wars,W3
+2954,2954,VFW,W3
+2955,2955,War Veterans,W3
+2956,2956,Air Traffic Control,W4
+2957,2957,Air Transportation,W4
+2958,2958,Airline Terminals,W4
+2959,2959,Airports,W4
+2960,2960,Bus Shelters,W4
+2961,2961,"Buses, Cable Cars",W4
+2962,2962,"Commuter Rail, Ferry Boats",W4
+2963,2963,Light-Rail Systems,W4
+2964,2964,Mass Transit,W4
+2965,2965,Pedestrian Shelters,W4
+2966,2966,Public Transportation,W4
+2967,2967,Public Transportation Systems,W4
+2968,2968,Rail Transportation,W4
+2969,2969,Railroads,W4
+2970,2970,Railways,W4
+2971,2971,Rapid Transit Systems,W4
+2972,2972,Roadways,W4
+2973,2973,Streetcars,W4
+2974,2974,Subways,W4
+2975,2975,Trains,W4
+2976,2976,Trolleys,W4
+2977,2977,Urban Mass Transit,W4
+2978,2978,Communication Services,W5
+2979,2979,Electronic Messaging,W5
+2980,2980,Freenet Providers,W5
+2981,2981,Internet Service Providers,W5
+2982,2982,Rural Utilities,W5
+2983,2983,Telecommunications ,W5
+2984,2984,Telegraph,W5
+2985,2985,Telephone Systems,W5
+2986,2986,Wireless Communications Systems,W5
+2987,2987,Banks,W6
+2988,2988,Check Cashing,W6
+2989,2989,Investment Management ,W6
+2990,2990,Investments & Securities ,W6
+2991,2991,Savings & Loan Associations,W6
+2992,2992,Thrift Institutions,W6
+2993,2993,Trust Companies,W6
+2994,2994,Electric Generating Plants,W8
+2995,2995,Electrification,W8
+2996,2996,Energy Generating Resources,W8
+2997,2997,Energy Suppliers,W8
+2998,2998,Gas Services,W8
+2999,2999,Energy Suppliers,W8
+3000,3000,Light Companies,W8
+3001,3001,Natural Gas Services,W8
+3002,3002,Power Generating Plants,W8
+3003,3003,Propane Services,W8
+3004,3004,Public Utilities,W8
+3005,3005,Rural Water Companies,W8
+3006,3006,Sanitary Services,W8
+3007,3007,Utility Systems,W8
+3008,3008,Water & Sewer Services,W8
+3009,3009,Water Rights,W8
+3010,3010,Water Systems,W8
+3011,3011,Waterworks,W8
+3012,3012,Consumer Complaints,W9
+3013,3013,Consumer Education,W9
+3014,3014,Consumer Fraud,W9
+3015,3015,Consumer Product Safety,W9
+3016,3016,Consumer Protection,W9
+3017,3017,Consumer Safety,W9
+3018,3018,Armenian Apostolic Church,X2
+3019,3019,Christ Catholic Church,X2
+3020,3020,Church of Cyprus,X2
+3021,3021,Church of Greece,X2
+3022,3022,Church of Jesus Christ of Latter Day Saints,X2
+3023,3023,Church of the Latter Day Saints,X2
+3024,3024,Coptic Christian,X2
+3025,3025,Eastern Catholicism,X2
+3026,3026,Eastern Orthodox,X2
+3027,3027,Greek Orthodox,X2
+3028,3028,Holy Apostolic Catholic Assyrian Church of the East,X2
+3029,3029,Mormon Church,X2
+3030,3030,Oriental Orthodox Church,X2
+3031,3031,Orthodox Church,X2
+3032,3032,Prayer Breakfasts,X2
+3033,3033,Russian Orthodox,X2
+3034,3034,Syrian Orthodox Church of Antioch,X2
+3035,3035,Advent Christian Church,X2
+3036,3036,African Methodist Episcopal Church,X2
+3037,3037,African Methodist Episcopal Zion Church,X2
+3038,3038,AME Church,X2
+3039,3039,Amish,X2
+3040,3040,Anabaptist,X2
+3041,3041,Anglican Church,X2
+3042,3042,Apostolic Arminian Church,X2
+3043,3043,Assemblies of Christ,X2
+3044,3044,Apostolic Assembly of the Faith in Christ Jesus,X2
+3045,3045,Apostolic Christian Church,X2
+3046,3046,Apostolic Faith Church,X2
+3047,3047,Apostolic Overcoming Holy Church of God (A.O.H.),X2
+3048,3048,Assembly of God Church,X2
+3049,3049,Baptist Church,X2
+3050,3050,Berean Fundamental Church,X2
+3051,3051,Bible Church of Christ,X2
+3052,3052,Born Again Christians,X2
+3053,3053,Brethren Church,X2
+3054,3054,Brethren in Christ,X2
+3055,3055,Calvary Chapel,X2
+3056,3056,Christ Gospel Church,X2
+3057,3057,Christadelphian,X2
+3058,3058,Christian & Missionary Alliance,X2
+3059,3059,Christian Church,X2
+3060,3060,Christian Churches of God,X2
+3061,3061,Christian Reformed Church,X2
+3062,3062,Christian Science,X2
+3063,3063,Church of Christ,X2
+3064,3064,"Church of Christ, Scientist",X2
+3065,3065,Church of God,X2
+3066,3066,Church of Our Lord Jesus Christ,X2
+3067,3067,Church of South India (CSI),X2
+3068,3068,Church of the Brethren,X2
+3069,3069,Church of the Nazarene,X2
+3070,3070,Community of Christ,X2
+3071,3071,Congregational Church,X2
+3072,3072,Covenant Church,X2
+3073,3073,Disciples of Christ,X2
+3074,3074,Episcopal Church,X2
+3075,3075,Evangelical Bible Church,X2
+3076,3076,Evangelical Bible Churches,X2
+3077,3077,Evangelical Christian Church,X2
+3078,3078,Evangelical Formosan Church,X2
+3079,3079,Evangelical Free Church,X2
+3080,3080,Evangelicals,X2
+3081,3081,Evangelism,X2
+3082,3082,Foursquare Church,X2
+3083,3083,House of God Saints in Christ,X2
+3084,3084,International Church of the Foursquare Gospel,X2
+3085,3085,International Pentecostal Church of Christ,X2
+3086,3086,Jehovahs Witnesses,X2
+3087,3087,Lutheran Church,X2
+3088,3088,Mennonite Church,X2
+3089,3089,Methodist Church,X2
+3090,3090,Metropolitan Community Church,X2
+3091,3091,Missionary Church,X2
+3092,3092,Moravian Church,X2
+3093,3093,Netherlands Reformed Congregations,X2
+3094,3094,Pentecostal Church of God,X2
+3095,3095,Pentecostal Church,X2
+3096,3096,Pentecostal Holiness Church,X2
+3097,3097,Presbyterian Church,X2
+3098,3098,Protestant Reformed Church,X2
+3099,3099,Protestant,X2
+3100,3100,"Quakers, Redeemed Christian Church of God",X2
+3101,3101,Reformed Church,X2
+3102,3102,Religious Society of Friends,X2
+3103,3103,Salvationists,X2
+3104,3104,Seventh-day Adventist Church,X2
+3105,3105,Shakers,X2
+3106,3106,Swedenborgian Church,X2
+3107,3107,United Church of Christ,X2
+3108,3108,United Holy Church,X2
+3109,3109,United Pentecostal Church,X2
+3110,3110,Unity,X2
+3111,3111,Victory Church,X2
+3112,3112,Vineyard Christian Fellowship,X2
+3113,3113,Vineyard Church,X2
+3114,3114,Wesleyan Church,X2
+3115,3115,Catholic Church,X2
+3116,3116,Roman Catholic Church,X2
+3117,3117,Chabad,X3
+3118,3118,Eruv,X3
+3119,3119,Habonim-Dror,X3
+3120,3120,Hebrew School,X3
+3121,3121,Jewish Camps,X3
+3122,3122,Jewish Religion,X3
+3123,3123,Jewish Spiritual Retreats,X3
+3124,3124,Judaism,X3
+3125,3125,Labavitch,X3
+3126,3126,Mikvah,X3
+3127,3127,Noahide,X3
+3128,3128,Passover Seders,X3
+3129,3129,Pesach Seders,X3
+3130,3130,Sukout,X3
+3131,3131,Synagogues,X3
+3132,3132,Talmud,X3
+3133,3133,Torah,X3
+3134,3134,Hajj,X4
+3135,3135,Islam,X4
+3136,3136,Islamic Spiritual Retreats,X4
+3137,3137,Mohammedanism,X4
+3138,3138,Moslems,X4
+3139,3139,Mosques,X4
+3140,3140,Muslims,X4
+3141,3141,Islamic Temples,X4
+3142,3142,Koran,X4
+3143,3143,Pilgrimages - Islam,X4
+3144,3144,Quran,X4
+3145,3145,Buddha,X5
+3146,3146,Buddhism,X5
+3147,3147,Buddhist Spiritual Retreats,X5
+3148,3148,Pilgrimages - Buddhism,X5
+3149,3149,Buddhist,X5
+3150,3150,Buddhist Temples,X5
+3151,3151,Zen,X5
+3152,3152,Ashram,X7
+3153,3153,Hindu Spiritual Retreats,X7
+3154,3154,Hinduism,X7
+3155,3155,Pilgrimages - Hinduism,X7
+3156,3156,Vedic,X7
+3157,3157,Ecumenical,X9
+3158,3158,Interdenominational,X9
+3159,3159,Jewish-Christian Relations,X9
+3160,3160,National Conference of Christians and Jews,X9
+3161,3161,Cooling Centers,L4
+3162,3162,Cooling Site,L4
+3163,3163,Cooling Sites,L4
+3164,3164,Dental Clinics,E3
+3165,3165,Dental Care,E3
+3166,3166,Mobile Dental Care,E3
+3167,3167,Oral Health,E3
+3168,3168,Obstetrics,E4
+3169,3169,Gynecology,E4
+3170,3170,Gynaecology,E4
+3171,3171,Obstetrician,E4
+3172,3172,Gynecologist,E4
+3173,3173,Gynaecologist,E4
+3174,3174,OB/GYN,E4
+3175,3175,OB-GYN,E4
+3176,3176,OBGYN,E4
+3177,3177,Female reproductive,E4
+3178,3178,Pregnancy,E4
+3179,3179,Pregnant,E4
+3180,3180,Childbirth,E4
+3181,3181,Postpartum,E4
+3182,3182,Prenatal,E4
+3183,3183,Intranatal,E4
+3184,3184,Neonatal,E4
+3185,3185,Postnatal,E4
+3186,3186,Natal,E4
+3187,3187,Partum,E4

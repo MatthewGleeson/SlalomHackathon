@@ -1,0 +1,241 @@
+,Unnamed: 0,code,name
+0,5bb3ae25da3c38c71367bcc4,B2,Elementary & Secondary Schools
+1,5bb3ae26da3c38c71367bcc5,B2,Preschools
+2,5bb3ae26da3c38c71367bcc6,B2,Primary & Elementary Schools
+3,5bb3ae26da3c38c71367bcc7,B2,Secondary & High Schools
+4,5bb3ae26da3c38c71367bcc8,B2,Special Education
+5,5bb3ae26da3c38c71367bcc9,B2,Charter Schools
+6,5bb3ae27da3c38c71367bcca,B3,Vocational & Technical Schools
+7,5bb3ae27da3c38c71367bccb,B4,Higher Education
+8,5bb3ae27da3c38c71367bccc,B4,Two-Year Colleges
+9,5bb3ae27da3c38c71367bccd,B4,Undergraduate Colleges
+10,5bb3ae27da3c38c71367bcce,B4,Universities
+11,5bb3ae27da3c38c71367bccf,B5,Graduate & Professional Schools
+12,5bb3ae27da3c38c71367bcd0,B6,Adult Education
+13,5bb3ae27da3c38c71367bcd1,B7,Libraries
+14,5bb3ae27da3c38c71367bcd2,B9,Educational Services
+15,5bb3ae27da3c38c71367bcd3,B9,Remedial Reading & Encouragement
+16,5bb3ae27da3c38c71367bcd4,B9,Parent & Teacher Groups
+17,5bb3ae27da3c38c71367bcd5,B9,Education Not Elsewhere Classified
+18,5bb3ae27da3c38c71367bcd6,C2,Pollution Abatement & Control
+19,5bb3ae27da3c38c71367bcd7,C6,Environmental Education
+20,5bb3ae27da3c38c71367bcd8,D2,Animal Protection & Welfare
+21,5bb3ae27da3c38c71367bcd9,E2,Hospitals
+22,5bb3ae27da3c38c71367bcda,E2,Community Health Systems
+23,5bb3ae27da3c38c71367bcdb,E2,General Hospitals
+24,5bb3ae27da3c38c71367bcdc,E2,Specialty Hospitals
+25,5bb3ae28da3c38c71367bcdd,E3,Ambulatory & Primary Health Care
+26,5bb3ae28da3c38c71367bcde,E3,Group Health Practices
+27,5bb3ae28da3c38c71367bcdf,E3,Community Clinics
+28,5bb3ae28da3c38c71367bce0,E4,Reproductive Health Care
+29,5bb3ae28da3c38c71367bce1,E4,Family Planning
+30,5bb3ae28da3c38c71367bce2,E5,Rehabilitative Care
+31,5bb3ae28da3c38c71367bce3,E6,Health Support
+32,5bb3ae28da3c38c71367bce4,E6,Blood Banks
+33,5bb3ae28da3c38c71367bce5,E6,Emergency Medical Services & Transport
+34,5bb3ae28da3c38c71367bce6,E6,Organ & Tissue Banks
+35,5bb3ae28da3c38c71367bce7,E7,Public Health
+36,5bb3ae28da3c38c71367bce8,E8,Health (General & Financing)
+37,5bb3ae28da3c38c71367bce9,E8,Patient & Family Support
+38,5bb3ae28da3c38c71367bcea,E9,Nursing
+39,5bb3ae28da3c38c71367bceb,E9,Nursing Facilities
+40,5bb3ae28da3c38c71367bcec,E9,Home Health Care
+41,5bb3ae28da3c38c71367bced,E9,Health Care Not Elsewhere Classified
+42,5bb3ae28da3c38c71367bcee,F2,"Substance Abuse Dependency, Prevention & Treatment"
+43,5bb3ae28da3c38c71367bcef,F2,Substance Abuse Prevention
+44,5bb3ae28da3c38c71367bcf0,F2,Substance Abuse Treatment
+45,5bb3ae29da3c38c71367bcf1,F3,Mental Health Treatment
+46,5bb3ae29da3c38c71367bcf2,F3,Psychiatric Hospitals
+47,5bb3ae29da3c38c71367bcf3,F3,Community Mental Health Centers
+48,5bb3ae29da3c38c71367bcf4,F3,Residential Mental Health Treatment
+49,5bb3ae29da3c38c71367bcf5,F4,Hot Lines & Crisis Intervention
+50,5bb3ae29da3c38c71367bcf6,F4,Sexual Assault Services
+51,5bb3ae29da3c38c71367bcf7,F5,Addictive Disorders Not Elsewhere Classified
+52,5bb3ae29da3c38c71367bcf8,F5,Smoking Addiction
+53,5bb3ae29da3c38c71367bcf9,F5,Eating Disorders & Addictions
+54,5bb3ae29da3c38c71367bcfa,F5,Gambling Addiction
+55,5bb3ae29da3c38c71367bcfb,F6,Counseling
+56,5bb3ae29da3c38c71367bcfc,F7,Mental Health Disorders
+57,5bb3ae29da3c38c71367bcfd,F8,Mental Health Associations
+58,5bb3ae29da3c38c71367bcfe,F9,Mental Health & Crisis Intervention Not Elsewhere Classified
+59,5bb3ae29da3c38c71367bcff,G2,Birth Defects & Genetic Diseases
+60,5bb3ae29da3c38c71367bd00,G2,Down Syndrome
+61,5bb3ae29da3c38c71367bd01,G3,Cancer
+62,5bb3ae29da3c38c71367bd02,G3,Breast Cancer
+63,5bb3ae29da3c38c71367bd03,G4,Diseases of Specific Organs
+64,5bb3ae2ada3c38c71367bd04,G4,"Eye Diseases, Blindness & Vision Impairments"
+65,5bb3ae2ada3c38c71367bd05,G4,Heart & Circulatory System Diseases & Disorders
+66,5bb3ae2ada3c38c71367bd06,G4,Kidney Diseases
+67,5bb3ae2ada3c38c71367bd07,G4,Lung Diseases
+68,5bb3ae2ada3c38c71367bd08,G4,Brain Disorders
+69,5bb3ae2ada3c38c71367bd09,G5,"Nerve, Muscle & Bone Diseases"
+70,5bb3ae2ada3c38c71367bd0a,G5,Arthritis
+71,5bb3ae2ada3c38c71367bd0b,G5,Epilepsy
+72,5bb3ae2ada3c38c71367bd0c,G6,Allergy-Related Diseases
+73,5bb3ae2ada3c38c71367bd0d,G6,Asthma
+74,5bb3ae2ada3c38c71367bd0e,G7,Digestive Diseases & Disorders
+75,5bb3ae2ada3c38c71367bd0f,G8,Specifically Named Diseases
+76,5bb3ae2ada3c38c71367bd10,G8,AIDS
+77,5bb3ae2ada3c38c71367bd11,G8,Alzheimers Disease
+78,5bb3ae2ada3c38c71367bd12,G8,Autism
+79,5bb3ae2ada3c38c71367bd13,G9,Medical Disciplines
+80,5bb3ae2bda3c38c71367bd14,G9,Biomedicine & Bioengineering
+81,5bb3ae2bda3c38c71367bd15,G9,Geriatrics
+82,5bb3ae2bda3c38c71367bd16,G9,Neurology & Neuroscience
+83,5bb3ae2bda3c38c71367bd17,G9,Pediatrics
+84,5bb3ae2bda3c38c71367bd18,G9,Surgical Specialties
+85,5bb3ae2bda3c38c71367bd19,G9,Voluntary Health Associations & Medical Disciplines Not Elsewhere Classified
+86,5bb3ae2bda3c38c71367bd1a,I2,Crime Prevention
+87,5bb3ae2bda3c38c71367bd1b,I2,Youth Violence Prevention
+88,5bb3ae2bda3c38c71367bd1c,I3,Correctional Facilities
+89,5bb3ae2cda3c38c71367bd1d,I3,Half-Way Houses for Offenders & Ex-Offenders
+90,5bb3ae2cda3c38c71367bd1e,I4,Rehabilitation Services for Offenders
+91,5bb3ae2cda3c38c71367bd1f,I4,Inmate Support
+92,5bb3ae2cda3c38c71367bd20,I4,Prison Alternatives
+93,5bb3ae2cda3c38c71367bd21,I5,Administration of Justice
+94,5bb3ae2cda3c38c71367bd22,I5,Dispute Resolution & Mediation
+95,5bb3ae2cda3c38c71367bd23,I6,Law Enforcement
+96,5bb3ae2cda3c38c71367bd24,I7,Protection Against Abuse
+97,5bb3ae2cda3c38c71367bd25,I7,Spouse Abuse Prevention
+98,5bb3ae2cda3c38c71367bd26,I7,Child Abuse Prevention
+99,5bb3ae2cda3c38c71367bd27,I7,Sexual Abuse Prevention
+100,5bb3ae2cda3c38c71367bd28,I8,Legal Services
+101,5bb3ae2cda3c38c71367bd29,I8,Public Interest Law
+102,5bb3ae2cda3c38c71367bd2a,I9,Crime & Legal-Related Not Elsewhere Classified
+103,5bb3ae2cda3c38c71367bd2b,J2,Employment Preparation & Procurement
+104,5bb3ae2cda3c38c71367bd2c,J2,Vocational Counseling
+105,5bb3ae2cda3c38c71367bd2d,J2,Job Training
+106,5bb3ae2cda3c38c71367bd2e,J3,Vocational Rehabilitation
+107,5bb3ae2cda3c38c71367bd2f,J3,Goodwill Industries
+108,5bb3ae2cda3c38c71367bd30,J3,Sheltered Employment
+109,5bb3ae2cda3c38c71367bd31,K3,Food Programs
+110,5bb3ae2dda3c38c71367bd32,K3,Food Banks & Pantries
+111,5bb3ae2dda3c38c71367bd33,K3,Congregate Meals
+112,5bb3ae2dda3c38c71367bd34,K3,Soup Kitchens
+113,5bb3ae2dda3c38c71367bd35,K3,Meals on Wheels
+114,5bb3ae2dda3c38c71367bd36,K4,Nutrition
+115,5bb3ae2dda3c38c71367bd37,K5,Home Economics
+116,5bb3ae2dda3c38c71367bd38,L2,"Housing Development, Construction & Management"
+117,5bb3ae2dda3c38c71367bd39,L2,Low-Income & Subsidized Rental Housing
+118,5bb3ae2dda3c38c71367bd3a,L2,Senior Citizens Housing & Retirement Communities
+119,5bb3ae2dda3c38c71367bd3b,L2,Independent Housing for People with Disabilities
+120,5bb3ae2dda3c38c71367bd3c,L2,Housing Rehabilitation
+121,5bb3ae2dda3c38c71367bd3d,L3,Housing Search Assistance
+122,5bb3ae2dda3c38c71367bd3e,L4,Temporary Housing
+123,5bb3ae2dda3c38c71367bd3f,L4,Homeless Shelters
+124,5bb3ae2dda3c38c71367bd40,L8,Housing Support
+125,5bb3ae2dda3c38c71367bd41,L8,Home Improvement & Repairs
+126,5bb3ae2dda3c38c71367bd42,L8,Housing Expense Reduction Support
+127,5bb3ae2dda3c38c71367bd43,M2,Disaster Preparedness & Relief Services
+128,5bb3ae2dda3c38c71367bd44,M2,Search & Rescue Squads
+129,5bb3ae2dda3c38c71367bd45,M2,Fire Prevention
+130,5bb3ae2eda3c38c71367bd46,N2,Camps
+131,5bb3ae2eda3c38c71367bd47,N3,Physical Fitness & Community Recreational Facilities
+132,5bb3ae2eda3c38c71367bd48,N3,Community Recreational Centers
+133,5bb3ae2eda3c38c71367bd49,N3,Parks & Playgrounds
+134,5bb3ae2eda3c38c71367bd4a,O2,Youth Centers & Clubs
+135,5bb3ae2eda3c38c71367bd4b,O2,Boys Clubs
+136,5bb3ae2eda3c38c71367bd4c,O2,Girls Clubs
+137,5bb3ae2eda3c38c71367bd4d,O3,Adult & Child Matching Programs
+138,5bb3ae2eda3c38c71367bd4e,O3,Big Brothers & Big Sisters
+139,5bb3ae2eda3c38c71367bd4f,O4,Scouting
+140,5bb3ae2eda3c38c71367bd50,O4,Boy Scouts of America
+141,5bb3ae2eda3c38c71367bd51,O4,Girl Scouts of the U.S.A.
+142,5bb3ae2eda3c38c71367bd52,O4,Camp Fire
+143,5bb3ae2eda3c38c71367bd53,O5,Youth Development Programs
+144,5bb3ae2eda3c38c71367bd54,O5,Youth Community Service Clubs
+145,5bb3ae2eda3c38c71367bd55,O5,Youth Development - Agricultural
+146,5bb3ae2eda3c38c71367bd56,O5,Youth Development - Business
+147,5bb3ae2eda3c38c71367bd57,O5,Youth Development - Citizenship
+148,5bb3ae2eda3c38c71367bd58,O5,Youth Development - Religious Leadership
+149,5bb3ae2eda3c38c71367bd59,O9,Youth Development Not Elsewhere Classified
+150,5bb3ae2fda3c38c71367bd5a,P2,Human Service Organizations
+151,5bb3ae2fda3c38c71367bd5b,P2,American Red Cross
+152,5bb3ae2fda3c38c71367bd5c,P2,Urban League
+153,5bb3ae2fda3c38c71367bd5d,P2,Salvation Army
+154,5bb3ae2fda3c38c71367bd5e,P2,Volunteers of America
+155,5bb3ae2fda3c38c71367bd5f,P2,Young Mens or Womens Associations
+156,5bb3ae2fda3c38c71367bd60,P2,Neighborhood Centers
+157,5bb3ae2fda3c38c71367bd61,P2,Thrift Shops
+158,5bb3ae2fda3c38c71367bd62,P3,Children & Youth Services
+159,5bb3ae2fda3c38c71367bd63,P3,Adoption
+160,5bb3ae2fda3c38c71367bd64,P3,Foster Care
+161,5bb3ae2fda3c38c71367bd65,P3,Child Day Care
+162,5bb3ae2fda3c38c71367bd66,P4,Family Services
+163,5bb3ae2fda3c38c71367bd67,P4,Single Parent Agencies
+164,5bb3ae2fda3c38c71367bd68,P4,Family Violence Shelters
+165,5bb3ae2fda3c38c71367bd69,P4,In-Home Assistance
+166,5bb3ae2fda3c38c71367bd6a,P4,Family Services for Adolescent Parents
+167,5bb3ae2fda3c38c71367bd6b,P4,Family Counseling
+168,5bb3ae2fda3c38c71367bd6c,P4,Pregnancy Centers
+169,5bb3ae2fda3c38c71367bd6d,P5,Personal Social Services
+170,5bb3ae30da3c38c71367bd6e,P5,Financial Counseling
+171,5bb3ae30da3c38c71367bd6f,P5,Transportation Assistance
+172,5bb3ae30da3c38c71367bd70,P5,Gift Distribution
+173,5bb3ae30da3c38c71367bd71,P6,Emergency Assistance
+174,5bb3ae30da3c38c71367bd72,P6,Travelers Aid
+175,5bb3ae30da3c38c71367bd73,P6,Victims Services
+176,5bb3ae30da3c38c71367bd74,P7,Residential Care & Adult Day Programs
+177,5bb3ae30da3c38c71367bd75,P7,Adult Day Care
+178,5bb3ae30da3c38c71367bd76,P7,Group Homes
+179,5bb3ae30da3c38c71367bd77,P7,Hospices
+180,5bb3ae30da3c38c71367bd78,P7,Supportive Housing for Older Adults
+181,5bb3ae30da3c38c71367bd79,P8,Centers to Support the Independence of Specific Populations
+182,5bb3ae30da3c38c71367bd7a,P8,Senior Centers
+183,5bb3ae30da3c38c71367bd7b,P8,Developmentally Disabled Centers
+184,5bb3ae30da3c38c71367bd7c,P8,Ethnic &  Immigrant Centers
+185,5bb3ae30da3c38c71367bd7d,P8,Homeless Centers
+186,5bb3ae30da3c38c71367bd7e,P8,Blind & Visually Impaired Centers
+187,5bb3ae30da3c38c71367bd7f,P8,Deaf & Hearing Impaired Centers
+188,5bb3ae30da3c38c71367bd80,P8,LGBT Centers
+189,5bb3ae31da3c38c71367bd81,P9,Human Services Not Elsewhere Classified
+190,5bb3ae31da3c38c71367bd82,R2,Civil Rights
+191,5bb3ae31da3c38c71367bd83,R2,Minority Rights
+192,5bb3ae31da3c38c71367bd84,R2,Disabled Persons Rights
+193,5bb3ae31da3c38c71367bd85,R2,Seniors Rights
+194,5bb3ae31da3c38c71367bd86,R2,Lesbian & Gay Rights
+195,5bb3ae31da3c38c71367bd87,R2,Children's Rights
+196,5bb3ae31da3c38c71367bd88,R3,Intergroup & Race Relations
+197,5bb3ae31da3c38c71367bd89,R4,Voter Education & Registration
+198,5bb3ae31da3c38c71367bd8a,R6,Civil Liberties
+199,5bb3ae31da3c38c71367bd8b,R6,Reproductive Rights
+200,5bb3ae31da3c38c71367bd8c,R6,Right to Life
+201,5bb3ae31da3c38c71367bd8d,R6,"Censorship, Freedom of Speech & Press"
+202,5bb3ae31da3c38c71367bd8e,R6,Right to Die & Euthanasia
+203,5bb3ae31da3c38c71367bd8f,R9,"Civil Rights, Social Action & Advocacy Not Elsewhere Classified"
+204,5bb3ae31da3c38c71367bd90,W3,Military & Veterans Organizations
+205,5bb3ae31da3c38c71367bd91,W4,Public Transportation Systems
+206,5bb3ae31da3c38c71367bd92,W5,Telecommunications
+207,5bb3ae31da3c38c71367bd93,W6,Financial Institutions
+208,5bb3ae31da3c38c71367bd94,W6,Credit Unions
+209,5bb3ae31da3c38c71367bd95,W8,Public Utilities
+210,5bb3ae32da3c38c71367bd96,W9,Consumer Protection
+211,5bb3ae32da3c38c71367bd97,X2,Christianity
+212,5bb3ae32da3c38c71367bd98,X2,Protestant
+213,5bb3ae32da3c38c71367bd99,X2,Roman Catholic
+214,5bb3ae32da3c38c71367bd9a,X3,Judaism
+215,5bb3ae32da3c38c71367bd9b,X4,Islam
+216,5bb3ae32da3c38c71367bd9c,X5,Buddhism
+217,5bb3ae32da3c38c71367bd9d,X7,Hinduism
+218,5bb3ae32da3c38c71367bd9e,X9,Interfaith Coalitions
+219,5bb3ae32da3c38c71367bd9f,L4,Cooling Center
+220,5bb3ae32da3c38c71367bda0,E3,Dental Services
+221,5bb4ce6dda3c38c9a74a1c6f,F3,Mental Health First Aid Training
+222,5bc787d9da3c38f0620b0240,B,Education
+223,5bc787d9da3c38f0620b0241,C,Environment
+224,5bc787d9da3c38f0620b0242,D,Animal-Related
+225,5bc787d9da3c38f0620b0243,E,Health Care
+226,5bc787d9da3c38f0620b0244,F,Mental Health & Crisis Intervention
+227,5bc787d9da3c38f0620b0245,G,Voluntary Health Associations & Medical Disciplines
+228,5bc787dada3c38f0620b0246,I,Crime & Legal-Related
+229,5bc787dada3c38f0620b0247,J,Employment
+230,5bc787dada3c38f0620b0248,K,"Food, Agriculture & Nutrition"
+231,5bc787dada3c38f0620b0249,L,Housing & Shelter
+232,5bc787dada3c38f0620b024a,M,"Public Safety, Disaster Preparedness & Relief"
+233,5bc787dada3c38f0620b024b,N,Recreation & Sports
+234,5bc787dada3c38f0620b024c,O,Youth Development
+235,5bc787dada3c38f0620b024d,P,Human Services
+236,5bc787dada3c38f0620b024e,R,"Civil Rights, Social Action & Advocacy"
+237,5bc787dbda3c38f0620b024f,W,Public & Societal Benefit
+238,5bc787dbda3c38f0620b0250,X,Religion-Related
+239,5c929881a4f5428e5fce6afa,E4,Obstetrics & Gynecology
